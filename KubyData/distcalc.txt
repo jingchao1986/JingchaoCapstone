@@ -1,0 +1,47 @@
+from time import sleep
+from googlemaps import GoogleMaps
+import dbconnect
+gm = GoogleMaps('AIzaSyCClIjuGwWvzGpuK81lyilQUc2iX8cDy1w')
+con,cur = dbconnect.dbconnect()
+
+
+cur.execute("SELECT ST_AsText(geom),lat,lon,id FROM STATIONS") 
+count = 0
+stations = cur.fetchall()
+print len(stations)
+''' while True:
+    print stations[0][3]
+    
+    if stations[0][3] != 48008: #use this code to restart at a certain station id
+        stations.pop(0)
+    else:
+        stations.pop(0)
+        break
+'''
+
+#loop through the stations and get a list of other stations within a straightline distance of straight line distance of 400 mi.
+#for each pair, call google directions to get the actual road distance.
+#store that info in a seperate table.
+for i in range(len(stations)-1):
+    p1 =stations[i][0]
+    print p1 #print the current station
+    st1 = stations[i][3]
+    p1latlon = stations[i][1:3]
+    query = "select lat, lon, id from stations2 where ST_DWithin('%s', stations.geom, 643738)" % p1
+    print query
+    cur.execute(query)
+    p2s = cur.fetchall()
+    for p2 in p2s:
+                addr1 = "%f,%f" % (float(p1latlon[0]), float(p1latlon[1]))
+                addr2 = "%f,%f" % (float(p2[0]), float(p2[1]))
+                if addr1 != addr2:
+                    dirs = gm.directions(addr1,addr2)   #google directions call
+                    out = dirs['Directions']['Distance']['meters'] #extract the total trip distance
+                    out = out * 0.000621371 #convert to miles
+                    iquery = "INSERT INTO network2 VALUES ('%s', '%s', %f);" % (st1, p2[2],out) #insert into db
+                    print iquery
+                    cur.execute(iquery)
+                    sleep(1)
+    con.commit()  #since I only commit after finishing a full round, Just restart after the last completed one
+
+con.close()

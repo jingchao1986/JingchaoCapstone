@@ -1,0 +1,672 @@
+streetaddr,city,state,zip,stationpho,cardsaccep,type,psi3000,psi3100,lat,lon,id,stationnam
+602 Cannon Rd,Carlsbad,CA,92008,213-244-5681,a,a,1,1,33.1336848,-117.3321232,942,SDG&E - Power Plant
+124-15 31st Ave,Queens,NY,11354,718-321-4608,a,a,1,1,40.7677993,-73.8459259,132,Con Edison - College Point Service Center
+315 Old Saw Mill River Rd,Valhalla,NY,10595,914-789-6723,a,a,1,1,41.083387,-73.8237879,51610,Con Edison - Eastview Service Center
+14226 Valley Blvd,Fontana,CA,92335,562-493-2804,a,a,1,1,34.0708706,-117.4943464,60266,Clean Energy - Fontana Truck Stop
+1113 N Swords Ave,West Peoria,IL,61604,562-493-2804,a,a,1,1,40.7020547,-89.6419613,48903,Clean Energy - Peoria Disposal Co - Public Access
+1100 S Sherman St,Longmont,CO,80501,720-941-2791,a,a,1,1,40.1464137,-105.1145973,53750,City of Longmont CNG Station
+32505 Harry Oliver Tr,Thousand Palms,CA,92276,760-343-3456,a,a,1,1,33.8153386,-116.3942859,1014,SunLine Transit Agency
+20 Main St,Tewksbury,MA,1876,617-242-8755,a,a,1,1,42.628424,-71.2734198,18892,Alternative Vehicle Service Group - Tewksbury
+3077 Cottage St,Riverside,CA,92507,213-244-5681,a,a,1,1,33.9715116,-117.371788,1016,SoCalGas - Riverside Base
+1501 N Airport Rd,Weatherford,OK,73096,580-772-6076,a,a,1,1,35.5429564,-98.6587172,43353,Fast Lane Travel Plaza
+300 W Bonanza Rd,Las Vegas,NV,89106,702-676-1500,a,a,1,1,36.180229,-115.143369,21718,Clean Energy - Regional Transportation Commission of Southern Nevada
+2490 Lithonia Industrial Blvd,Lithonia,GA,30058,562-493-2804,a,a,1,1,33.712794,-84.125795,36305,Clean Energy - PS Energy - Lithonia
+1521 S 1500 E,Naples,UT,84078,435-789-1832,a,a,1,1,40.4337484,-109.4993989,35907,Western Petroleum
+83255 Highway 111,Indio,CA,92201,760-343-3456,a,a,1,1,33.714358,-116.211564,1352,SunLine Transit Agency
+591 E Monticello Pike,Huntsville,TN,37756,423-663-9300,a,a,1,1,36.411596,-84.524446,44846,Natural Fuels LLC
+157 N Main St,Norwich,CT,6360,860-823-4119  860-823-4159,a,a,1,1,41.5275847,-72.0641056,7119,Norwich Public Utilities
+4705 Rib Mountain Dr,Wausau,WI,54401,715-843-5090,a,a,1,1,44.9142409,-89.6483779,53782,Kwik Trip #204
+3921 W Lincoln Ave,Milwaukee,WI,53215,414-286-2286,a,a,1,1,43.001528,-87.964148,48916,City of Milwaukee - Lincoln Avenue - Public Access
+100 Century Blvd,Nashville,TN,37214,615-947-8386,a,a,1,1,36.1441467,-86.679898,36682,Piedmont Natural Gas - Nashville - Public Access
+2530 E Noble Ave,Guthrie,OK,73538,405-260-0850,a,a,1,1,35.8797456,-97.4567175,46196,Love's Country Store #218
+2192 Sylvan Rd,East Point,GA,30344,562-493-2804,a,a,1,1,33.694489,-84.418012,36303,Clean Energy - PS Energy - East Point
+13200 Mulberry Dr,Whittier,CA,90602,562-698-8121,a,a,1,1,33.9549164,-118.0448379,12832,Whittier Union High School District
+717 S Sylvania Ave,Sturtevant,WI,53177,262-884-7500  800-920-1166,a,a,1,1,42.7252563,-87.9557308,32724,Trillium HD - Highland Petro
+2021 Lapeer Ave,Port Huron,MI,48060,810-987-7373 x300,a,a,1,1,42.977513,-82.4484528,27653,Bluewater Area Transit
+540 W Grenshaw,Chicago,IL,60607,562-493-2804  866-809-4869  312-362-9176,a,a,1,1,41.868414,-87.641917,47275,Clean Energy - Yellow Cab
+1737 State Route 228,Cranberry,PA,16066,724-741-2380,a,a,1,1,40.6863885,-80.0863608,52689,Get-Go Cranberry
+5347 Deerfoot Pkwy,Trussville,AL,35173,205-655-5119,a,a,1,1,33.656721,-86.574882,50235,Chevron
+Route 128 N,Lexington,MA,2421,617-242-8755,a,a,1,1,42.439992,-71.257781,18893,Alternative Vehicle Service Group - Lexington
+2425 Rental Car Rd,Irving,TX,75261,866-278-3674,a,a,1,1,32.85365,-97.035,36622,Clean Energy - Dallas/Forth Worth Airport Rental Car Center
+250 Veterans Memorial Hwy,Hauppauge,NY,11788,866-278-3674  631-952-6222,a,a,1,1,40.822358,-73.208081,27163,Clean Energy - New York State Office of General Services
+7002 S Union Ave,Tulsa,OK,74132,888-609-2410  800-664-5463,a,a,1,1,36.0626884,-96.0117144,22718,Oklahoma Natural Gas - Tulsa Service Center West
+8424 Ditmas Ave,Brooklyn,NY,11236,718-270-5866,a,a,1,1,40.645196,-73.917927,112,Clean Energy - National Grid Canarsie Service Center
+1471 E Elm St,Compton,CA,90221,213-244-5681,a,a,1,1,33.8997069,-118.2072814,1361,SoCalGas - Compton Base
+1505 E University Ave,Lafayette,LA,70501,337-291-8533,a,a,1,1,30.20907,-92.003393,37619,Lafayette Consolidated Government - Public Access
+1600 Windhoek Dr,Lincoln,NE,68512,402-437-1776,a,a,1,1,40.75954,-96.6979,48493,Black Hills Energy - Public Access
+2018 S Wood Dr,Okmulgee,OK,74447,888-609-2410  800-664-5463,a,a,1,1,35.6071044,-95.9618174,1264,Oklahoma Natural Gas - Okmulgee Service Center
+13130 Crossroads Pkwy S,City of Industry,CA,91746,562-908-4288  562-493-2804,a,a,1,1,34.0296817,-118.0120167,997,LA County Sanitation District
+5318 L St,Omaha,NE,68117,402-505-9898,a,a,1,1,41.212819,-95.997,38059,Metropolitan Utilities District - I-80 Fuels
+5979 S Howell Ave,Milwaukee,WI,53207,414-747-8779,a,a,1,1,42.935796,-87.910304,33428,Airport Clark
+3701 W Reno Ave,Oklahoma City,OK,73107,405-942-4931,a,a,1,1,35.4645494,-97.5832783,44752,Reno Partners - Conoco
+160 N 850 E,Lehi,UT,84043,801-389-6233,a,a,1,1,40.389808,-111.835378,49550,CNG America - Lehi
+1761 Gardena Ave,Glendale,CA,91204,866-278-3674,a,a,1,1,34.123589,-118.258046,33533,Clean Energy - City of Glendale
+3233 SW 89th St,Oklahoma City,OK,73159,405-686-1053,a,a,1,1,35.377633,-97.573759,46193,Love's Country Store #245
+365 Mineral Springs Rd,Buffalo,NY,14210,716-827-5505,a,a,1,1,42.860116,-78.796601,35317,National Fuel - Buffalo
+7711 Canoga Ave,Canoga Park,CA,91304,562-493-2804,a,a,1,1,34.210621,-118.59773,30618,Clean Energy - Canoga Park
+5609 State Route 8,Barkeyville,PA,16038,814-758-1725,a,a,1,1,41.19868,-79.9748,42596,Heath Oil CNG
+1719 S Santa Fe St,Santa Ana,CA,92705,800-950-3835,a,a,1,1,33.7246291,-117.8533654,40876,Clean N' Green - Waste Management
+3701 S Lamar St,Dallas,TX,75215,562-493-2804,a,a,1,1,32.753483,-96.774492,12768,Clean Energy - South Dallas
+4120 New Bern Ave,Raleigh,NC,27610,919-996-2733,a,a,1,1,35.794859,-78.566251,33082,City of Raleigh
+81 N Service Rd,Boston,MA,2128,617-242-8755,a,a,1,1,42.3705892,-71.0257283,81,Clean Energy - Logan International Airport
+746 Diligence Dr,Newport News,VA,23606,757-466-5506,a,a,1,1,37.083017,-76.463109,1110,Virginia Natural Gas - VNG Office
+2145 County Rd Pb,Verona,WI,53593,608-848-9040,a,a,1,1,42.971023,-89.5131606,52216,Kwik Trip #456
+12931 Garden Grove Blvd,Garden Grove,CA,92843,562-493-2804,a,a,1,1,33.774782,-117.906598,26308,Clean Energy - ARCO Garden Grove
+Mall Dr CD16,Norfolk,VA,23511,757-440-2265,a,a,1,1,36.94178,-76.311697,12801,Virginia Natural Gas - NEX Norfolk Naval Base
+1152 Capital Circle SW,Tallahassee,FL,32304,850-224-4516,a,a,1,1,30.4376,-84.3546,47236,Nopetro - Leon County School District
+675 W Manning Ave,Reedley,CA,93654,559-305-7065,a,a,1,1,36.604174,-119.455184,12840,Kings Canyon Unified School District
+3145 Ann Arbor-Saline Rd,Ann Arbor,MI,48103,734-997-3929,a,a,1,1,42.23982,-83.766816,12849,Meijer Gas #64
+10325 Garland Rd,Dallas,TX,75218,214-991-1274,a,a,1,1,32.84212,-96.692969,49546,CNG Texas
+324 Fletcher Ave,Waterloo,IA,50701,319-233-2989,a,a,1,1,42.488499,-92.367561,53751,Kwik Trip #732
+850 S Carbon Ave,Price,UT,84501,435-637-4002,a,a,1,1,39.587747,-110.815928,558,Sinclair
+1550 W 3rd St,Williamsport,PA,17701,570-326-2500,a,a,1,1,41.2370481,-77.0379784,52495,River Valley Transit - Public Access
+5050 W Pershing Rd,Cicero,IL,60804,800-950-3835,a,a,1,1,41.8219437,-87.7529478,43713,Clean N' Green - Waste Management
+1616 Baylor St,Dallas,TX,75226,562-493-2804,a,a,1,1,32.7808272,-96.7752689,26654,Clean Energy - Deep Ellum Central Service Center
+176 E Lincoln St,Banning,CA,92220,951-922-3291,a,a,1,1,33.9217141,-116.8745226,1359,City of Banning
+1323 W Lakeview Dr,Stillwater,OK,74075,405-744-7938,a,a,1,1,36.1449469,-97.0749233,33899,Clean Energy - Oklahoma State University
+1440 Main St,Orange,CA,92867,281-647-8900,a,a,1,1,33.811444,-117.86802,52683,Ryder Systems Inc
+2205 N Ash St,Ponca City,OK,74601,888-609-2410  800-664-5463,a,a,1,1,36.7287179,-97.0946086,767,Oklahoma Natural Gas - Ponca City Service Center
+24300 Clawiter Rd,Hayward,CA,94545,800-684-4648,a,a,1,1,37.6421586,-122.1177635,818,PG&E Hayward Service Center
+1640 Elk St,Rock Springs,WY,82901,307-382-9451,a,a,1,1,41.613419,-109.230014,49294,Exxon - Get 'N Go
+4211 Global St,Raleigh,NC,27610,919-836-2428,a,a,1,1,35.782015,-78.5629979,39189,PSNC Energy
+225 6th St,Carrollton,KY,41008,502-732-7055,a,a,1,1,38.6808796,-85.1781,53753,Carrollton Utilities
+32744 State Highway 45,Waynoka,OK,73860,405-372-3579,a,a,1,1,36.59442,-98.8634,36594,OnCue Express #353
+451 Tyburn Rd,Fairless Hills,PA,19030,562-493-2804,a,a,1,1,40.1799016,-74.8046692,48910,Clean Energy - Tyburn LLC
+3683 Industrial Rd,Las Vegas,NV,89109,562-493-2804,a,a,1,1,36.122907,-115.179315,41672,Clean Energy - Las Vegas City Center
+4920 N Western Ave,Oklahoma City,OK,73118,405-935-6475  405-372-3579,a,a,1,1,35.5211292,-97.5293536,34828,OnCue Express #191
+1767 S Old US 41,Vincennes,IN,47591,877-264-3835,a,a,1,1,38.7098705,-87.4887052,52206,Northville NG Fuels
+1310 E Chain of Rocks Rd,Granite City,IL,62040,866-809-4869,a,a,1,1,38.7611524,-90.0674747,60267,Clean Energy - Pontoon Beach Flying J #645
+15701 International Plaza Dr,Houston,TX,77032,562-493-2804,a,a,1,1,29.9436507,-95.3273203,37121,Clean Energy - Parking Spot Houston
+1130 Baltimore Pike,Concordville,PA,19342,610-358-2419,a,a,1,1,39.88078,-75.545734,48909,Lehigh Gas - Exxon
+1422 Naylor Dr SE,Bemidji,MN,56601,218-444-4130,a,a,1,1,47.4413978,-94.8487541,53317,Shared Medical Technology
+2072 Secrest Rd,Wooster,OH,44691,216-986-9999,a,a,1,1,40.7844744,-81.9235837,41694,Quasar
+20207 E 1110 County Rd,Elk City,OK,73644,580-303-4515,a,a,1,1,35.407717,-99.3803,48496,Hutch's C-Store #119
+251 Commerce Dr,New Holland,PA,17557,717-354-5102,a,a,1,1,40.087265,-76.09507,53323,CNG of New Holland
+John F Kennedy Airport,Queens,NY,11201,718-963-5495,a,a,1,1,40.645397,-73.786717,106,National Grid - Port Authority of New York and New Jersey
+6016 Old Boyce Hwy,Alexandria,LA,71309,318-449-1578,a,a,1,1,31.345192,-92.519025,41450,Chevron - Leebo's #9
+1990 Scott Rd NW,Rochester,MN,55901,507-289-2185,a,a,1,1,44.6232818,-93.7565933,48906,Kwik Trip #659
+158 Peabody Rd,Vacaville,CA,95687,800-684-4648,a,a,1,1,38.3507074,-121.9776818,1349,PG&E Vacaville Service Center
+175 N Caln Rd,Coatesville,PA,19320,610-648-7809,a,a,1,1,39.993845,-75.785742,33134,PECO Energy - Coatesville Station
+2514 Business Center Dr,Austin,TX,78744,800-920-1166,a,a,1,1,30.2132916,-97.7378893,30622,Trillium CNG - City of Austin - Public Access
+3100 1/2 Spirit of Texas Dr,Austin,TX,78719,562-493-2804,a,a,1,1,30.2106125,-97.6684453,35316,Clean Energy - Austin Bergstrom International Airport
+103 Hill St,Kersey,CO,80644,970-356-8669,a,a,1,1,40.3923,-104.565,36295,Kramer's Wedge Store - Conoco
+3825 Carpenter Rd,Ypsilanti,MI,48197,734-677-7129,a,a,1,1,42.233344,-83.677327,12823,DTE Energy - Meijer Ypsilanti
+2950 N Ohio St,Wichita,KS,67219,316-494-8264,a,a,1,1,37.737099,-97.32375,52207,CNG Services LLC
+4225 S Port Ave,Corpus Christi,TX,78415,361-885-6910,a,a,1,1,27.7501345,-97.4205535,118,City of Corpus Christi Gas Department
+75 Prado Rd,San Luis Obispo,CA,93401,562-493-2804,a,a,1,1,35.254197,-120.670939,1029,JB Dewar Inc
+940 I St,Los Banos,CA,93635,800-684-4648,a,a,1,1,37.0587691,-120.8425873,33323,PG&E Los Banos Service Center
+4915 W Industrial Blvd,Midland,TX,79703,800-920-1166,a,a,1,1,31.962703,-102.134231,25598,Trillium CNG - Pinnacle - Midland
+24169 Highway 49,Lawton,OK,73538,580-529-2882,a,a,1,1,34.713662,-98.40174,46195,Love's Country Store #263
+810 N Lake St,Burbank,CA,91502,562-493-2804,a,a,1,1,34.182974,-118.319506,26305,Clean Energy - City of Burbank
+5363 Route 36,Coolspring,PA,15730,814-590-4498,a,a,1,1,41.000556,-79.057778,41174,"""O"" Ring CNG Fuels Systems - Innovative Entrepreneurs Inc"
+2425 W Houston Ave,Visalia,CA,93291,800-920-1166,a,a,1,1,36.3419269,-119.3141709,27976,Trillium CNG - Visalia Unified School District
+11401 W 89th St,Overland Park,KS,66214,913-319-8600,a,a,1,1,38.96605,-94.7169,372,Kansas Gas Service
+2277 E Broadway Ave,Muskegon,MI,49444,231-733-9380,a,a,1,1,43.2012514,-86.1879706,12822,DTE Energy - Wesco Oil
+1700 E Central,Anadarko,OK,73005,888-609-2410  800-664-5463,a,a,1,1,35.072375,-98.2157341,25880,Oklahoma Natural Gas - Anadarko Service Center
+1449 SW Country Club Rd,Claremore,OK,74017,888-609-2410,a,a,1,1,36.2929514,-95.6264761,20921,Oklahoma Natural Gas - Claremore Service Center
+65 Industry Dr,West Haven,CT,6516,203-934-2096 x125,a,a,1,1,41.29134,-72.985335,36300,Clean Energy - Metro Taxi
+200 Cortland Ave,Syracuse,NY,13202,315-442-3333,a,a,1,1,43.035811,-76.15153,7021,Central New York Regional Transportation Authority - Centro
+350 Horseblock Rd,Yaphank,NY,11980,631-451-8696,a,a,1,1,40.8056205,-72.9378888,35318,Clean Energy - Town of Brookhaven Refuse and Recycling Improvement
+527 S 700 W,Woods Cross,UT,84087,801-295-3241,a,a,1,1,40.883915,-111.8990879,33205,RB's Fuel Stop - Phillips 66
+9400 Highland Dr,Jonesboro,AR,72401,800-920-1166,a,a,1,1,35.8220445,-90.5613881,52681,Trillium CNG - Highland Drive - Jonesboro
+13240 SE 32nd St,Bellevue,WA,98005,800-663-4555  888-732-6487,a,a,1,1,47.5819162,-122.1623472,33320,Clean Energy - Bellevue PSE Factoria
+605 N Berry Rd,Norman,OK,73069,800-664-5463  888-609-2410,a,a,1,1,35.2257103,-97.458973,12781,Oklahoma Natural Gas - Norman Service Center
+1407 SE 4th St,Lindsay,OK,73052,405-372-3579,a,a,1,1,34.8279507,-97.5983859,36590,OnCue Express #352
+619 N Main St,Altus,OK,73521,580-482-6167,a,a,1,1,34.644164,-99.334186,46197,Love's Country Store #8
+2005 Cockrell Hill Rd,Dallas,TX,75211,562-493-2804,a,a,1,1,32.724415,-96.89388,12767,Clean Energy - Cockrell Hill
+3123 S Highway 51,Janesville,WI,53546,608-752-3354,a,a,1,1,42.634444,-89.030092,53008,Kwik Trip #326
+402 Cedar St,Saint Joseph,MO,64501,816-756-5252,a,a,1,1,39.741662,-94.855413,50047,Missouri Gas Energy
+4646 S 500 W,Murray,UT,84123,801-324-5987,a,a,1,1,40.6712105,-111.9056797,23219,Questar Gas - City of Murray
+2623 Uwharrie Rd,High Point,NC,27263,704-309-7536,a,a,1,1,35.923756,-80.007658,42090,Piedmont Natural Gas - High Point - Public Access
+2999 E La Jolla St,Anaheim,CA,92806,800-920-1166,a,a,1,1,33.8605658,-117.8649634,25601,Trillium CNG - City of Placentia Corporate Yard - Anaheim
+11239 Midway,Chico,CA,95928,800-684-4648,a,a,1,1,39.7083926,-121.8088734,1347,PG&E Chico Service Center
+1140 University Blvd NE,Albuquerque,NM,87106,562-493-2804  505-975-4064,a,a,1,1,35.0909155,-106.6252033,20888,Clean Energy - University of New Mexico
+2020 Eagle Rd,Weatherford,OK,73096,405-372-3579,a,a,1,1,35.5224395,-98.6917721,36595,OnCue Express #354
+4800 W Rawson Ave,Milwaukee,WI,53132,920-243-5717,a,a,1,1,42.917262,-87.976379,1189,US Oil
+17700 Indian Ave,Moreno Valley,CA,92551,562-493-2804,a,a,1,1,33.86373,-117.232,51597,Clean Energy - Waste Management - Moreno Valley - Public Access
+1224 Hayes Blvd,Bristol,PA,19007,800-950-3835,a,a,1,1,40.121981,-74.8564544,50050,Clean N' Green - Waste Management
+421 S Garland Rd,Enid,OK,73703,888-609-2410  800-664-5463,a,a,1,1,36.393239,-97.942047,748,Oklahoma Natural Gas - Enid Service Center
+757 S Anderson Rd,Rock Hill,SC,29730,803-325-2500,a,a,1,1,34.92142,-80.9928,39193,City of Rock Hill - Public Access
+115 Duke St,Greer,SC,29650,864-449-2515,a,a,1,1,34.9374948,-82.2335566,47295,Greer Commission of Public Works - Public Access
+2425 S 35th St,Milwaukee,WI,53215,920-243-5717,a,a,1,1,42.999843,-87.959232,1151,US Oil
+2100 County Rd B,Menomonie,WI,54751,800-490-4915,a,a,1,1,44.886191,-91.8550326,43525,US Oil - Cennex
+2611 Greengate Dr,Greensboro,NC,27406,336-271-5030,a,a,1,1,36.025072,-79.796413,18935,Piedmont Natural Gas - Greensboro - Public Access Front
+6001 Cornhusker Hwy,Lincoln,NE,68507,402-464-0110,a,a,1,1,40.8622629,-96.637759,53320,Sapp Bros Travel Center
+2501 Lafayette Rd,Crawfordsville,IN,47933,765-362-4770,a,a,1,1,40.0753083,-86.9055284,48004,Sunoco - Midwest Clean Fuel
+11 S Treaty Rd,Miami,OK,74354,888-609-2410  800-664-5463,a,a,1,1,36.8747173,-94.8417642,20922,Oklahoma Natural Gas - Miami Service Center
+350 Industrial Way,Woodland,CA,95776,800-920-1166,a,a,1,1,38.678131,-121.7534326,27977,Trillium CNG - Yolo County Transportation District
+350 Sumac Rd,Wheeling,IL,60090,847-520-7306  800-950-3835,a,a,1,1,42.119053,-87.899009,41083,Clean N' Green - Waste Management
+415 Cox Rd,Marshall,TX,75672,,a,a,1,1,32.4968443,-94.3572921,52213,Peake Fuel Solutions
+2580 E Texas St,Bossier City,LA,71111,318-741-8441,a,a,1,1,32.527856,-93.714648,36549,City of Bossier City
+1755 Trigreen Dr,Athens,AL,35611,256-434-6122,a,a,1,1,34.819781,-86.941039,52482,City of Athens Gas Department - Public Access
+100 Woodruff Industrial Ln,Greenville,SC,29607,864-505-6448,a,a,1,1,34.8292379,-82.3090487,897,Piedmont Natural Gas - Greenville - Public Access
+5821 Green Valley Rd,Oshkosh,WI,54904,920-232-1278,a,a,1,1,44.10085,-88.541833,52506,Kwik Trip #871
+28273 Alta Vista Ave,Santa Clarita,CA,91355,888-732-6487  562-493-2804,a,a,1,1,34.448811,-118.575108,32422,Clean Energy - City of Santa Clarita
+4809 S 101 E Ave,Tulsa,OK,74146,918-641-2583,a,a,1,1,36.0937001,-95.863729,32671,Blue Energy Fuels - Tulsa Gas Technologies
+1618 Velp Ave,Green Bay,WI,54303,920-498-0298,a,a,1,1,44.548802,-88.047439,52215,US Oil - Express Convenience Center
+1101 2nd St,Berkeley,CA,94710,800-920-1166,a,a,1,1,37.880951,-122.306,27973,Trillium CNG - City of Berkeley
+1501 W Main Ave,De Pere,WI,54115,920-983-9235  800-920-1166,a,a,1,1,44.452956,-88.093299,44591,Trillium HD - De Pere Superstore
+131 Pittman Rd,Longview,TX,75602,903-753-0242,a,a,1,1,32.4531285,-94.7055775,52500,Independence Fuel Systems
+142 S Main St,Glassboro,NJ,8028,603-410-2252,a,a,1,1,39.69743,-75.1119,42091,Clean Energy - South Jersey Gas
+725 S Lexington St,Delano,CA,93215,661-721-3350,a,a,1,1,35.749926,-119.241121,12841,City of Delano - Public Access
+2100 S Harbor Blvd,Anaheim,CA,92802,562-493-7124  562-493-2804,a,a,1,1,33.795941,-117.914656,36292,Clean Energy - Anaheim-Valero Station
+50 Genesis Blvd,Bridgeport,WV,26330,877-742-4476,a,a,1,1,39.3215404,-80.2292106,53009,IGS Energy CNG Services - Bridgeport
+305 W Dekora St,Saukville,WI,53080,262-284-6100,a,a,1,1,43.381818,-87.946569,20933,Tri Par Oil Co - BP
+1220 Andersen Dr,San Rafael,CA,94901,800-684-4648,a,a,1,1,37.951236,-122.499682,827,PG&E San Rafael Service Center
+2635 N Freeway Dr,Cedar City,UT,84721,435-559-0905,a,a,1,1,37.7257056,-113.0558667,60210,JR's Truck Stop
+2920 Silver Star Rd,Orlando,FL,32808,312-300-6703,a,a,1,1,28.5780873,-81.4213589,53626,AMP Trillium
+350 S Queen St,Dover,DE,19904,302-734-6700,a,a,1,1,39.1555622,-75.5288545,1294,Chesapeake Utilities - Queen Street
+3180 College Ave,State College,PA,16801,814-234-3933,a,a,1,1,40.7594401,-77.8768551,45351,Lehigh Gas - Exxon
+301 W Ferguson,Wood River,IL,62095,800-936-6770,a,a,1,1,38.8604916,-90.1018053,60426,Great River Energy
+4118 Shrewsbury Ave,Saint Louis,MO,63119,314-342-0863,a,a,1,1,38.598614,-90.323459,440,Laclede Gas Co - Shrewsbury Facility
+102 W Coplin St,Okemah,OK,74859,918-623-2024,a,a,1,1,35.420886,-96.300164,42593,Love's Country Store #274
+80 Ella Grasso Tpk,Windsor Locks,CT,6096,562-493-2804  860-627-8010,a,a,1,1,41.920173,-72.671484,36301,Clean Energy - Hartford Bradley Airport Shell
+3424 N Perkins Rd,Stillwater,OK,74075,888-609-2410  800-664-5463,a,a,1,1,36.157396,-97.052954,22720,Oklahoma Natural Gas - Stillwater Service Center
+17121 Nichols St,Huntington Beach,CA,92647,714-847-3581,a,a,1,1,33.7131946,-117.9957105,33387,Rainbow Disposal - Public Access
+12600 State Route 66,Clarion,PA,16214,814-226-9410,a,a,1,1,41.1729864,-79.3417786,48908,Palo CNG
+474 Reuter Blvd,Towanda,PA,18848,570-265-6380,a,a,1,1,41.7693656,-76.4794435,50649,Dandy Mini-Mart
+227 McCarty Rd,Houston,TX,77029,562-493-2804,a,a,1,1,29.7866852,-95.2805827,333,Clean Energy - O'Rourke
+3400 E I St,Long Beach,CA,90813,562-493-2804,a,a,1,1,33.78311,-118.222,35073,Clean Energy - Port of Long Beach
+1100 S 27th St,Richmond,CA,94804,800-684-4648,a,a,1,1,37.9163999,-122.3436004,826,PG&E Richmond Service Center
+705 E Ajo Way,Tucson,AZ,85713,800-920-1166,a,a,1,1,32.1777933,-110.9797187,46346,Trillium CNG - Golden Eagle - Tucson
+320 Curtis Sykes Dr,North Little Rock,AR,72114,501-975-8833,a,a,1,1,34.7682377,-92.2645797,36291,City of North Little Rock
+17699 S Muskogee Ave,Tahlequah,OK,74464,918-456-5578,a,a,1,1,35.891778,-94.977075,42094,Conoco Outpost Convenience Store
+1111 W Chestnut Expy,Springfield,MO,65802,417-864-1955,a,a,1,1,37.2142774,-93.3046999,36777,City of Springfield
+15700 W Small Rd,New Berlin,WI,53151,262-641-7452,a,a,1,1,42.9445371,-88.1098977,53327,Kwik Trip #499
+831 Liberty Hill Dr,Evergreen,AL,36401,251-578-9439,a,a,1,1,31.446702,-86.9545847,32166,Evergreen Chevron - South Alabama Gas
+19425 28th Ave S,SeaTac,WA,98188,800-663-4555  888-732-6487,a,a,1,1,47.427122,-122.2979878,23203,Clean Energy - Seattle-Tacoma International Airport
+Rural Route 6,Stilwell,OK,74960,918-696-4177,a,a,1,1,35.841767,-94.632369,50648,NOPFA - Stilwell
+390 Griffin St,Salinas,CA,93901,800-684-4648,a,a,1,1,36.6713108,-121.6409969,809,PG&E Salinas Service Center
+515 S Main St,Elk City,OK,73644,580-225-0301,a,a,1,1,35.4056588,-99.4052835,30616,Hutchinson Oil Co
+200 Green St,Parachute,CO,81635,866-251-0032,a,a,1,1,39.455411,-108.050567,49543,Encana - Parachute
+3000 Parkway Blvd,West Valley City,UT,84119,801-538-3440  800-678-3440,a,a,1,1,40.7122329,-111.960621,23218,Granite School District
+1001 Broadway St,Denver,CO,80204,562-493-2804,a,a,1,1,39.73233,-104.988,635,Clean Energy - Valero #4086
+6400 Maysville Pk,Zanesville,OH,43701,216-986-9999,a,a,1,1,39.8727418,-82.1015401,41695,Quasar
+550 Southrock Dr,Rockford,IL,61102,800-920-1166,a,a,1,1,42.2250955,-89.1142307,50261,Trillium CNG - South Rock Mobil
+7155 1st St,Oak Creek,WI,53154,800-920-1166,a,a,1,1,42.914527,-87.914226,53645,EVO First Street - Oak Creek WI
+7640 Esters Blvd,Irving,TX,75063,562-493-2804,a,a,1,1,32.91089,-97.006308,36282,Clean Energy - Dallas/Fort Worth Airport North
+2400 E College Ave,Cudahy,WI,53110,847-668-5192,a,a,1,1,42.930379,-87.879766,1186,Falcon Fuel
+700 E 16th St,New York,NY,10009,212-460-6708,a,a,1,1,40.7297189,-73.9746939,125,Con Edison - E 16th Street Service Center
+1009 State Route 839,Dayton,PA,16222,814-257-8485,a,a,1,1,40.854398,-79.2349799,53765,White Oak Farms Inc
+131 Brainard Rd,Hartford,CT,6114,860-278-7044,a,a,1,1,41.7368759,-72.6598269,248,Shell
+6875 Consolidated Way,San Diego,CA,92121,213-244-5681,a,a,1,1,32.8776884,-117.1678413,951,SDG&E Service Center - Miramar Yard
+14201 McArt Rd,Victorville,CA,92392,760-241-6365,a,a,1,1,34.5087602,-117.3323136,12799,City of Victorville
+515 E Verot School Rd,Lafayette,LA,70505,918-491-4900,a,a,1,1,30.1803055,-91.997083,42584,Apache Lafayette
+5011 S Vandalia Ave,Tulsa,OK,74135,713-296-6000,a,a,1,1,36.0898018,-95.9244528,42595,Apache Tulsa
+4 Burnett Blvd,Poughkeepsie,NY,12603,866-278-3674  845-431-5908,a,a,1,1,41.693886,-73.890567,32794,Clean Energy - New York State Office of General Services
+3350 John Bangs Dr,Ontario,CA,91761,562-493-2804,a,a,1,1,34.060911,-117.578862,35131,Clean Energy - Ontario International Airport (ONT)
+1674 W 1100 S,Brigham City,UT,84302,435-723-9999  801-324-3900,a,a,1,1,41.48634,-112.043,33204,LW's Travel Plaza
+1037 S Hatcher St,City of Industry,CA,91748,800-442-6454,a,a,1,1,34.003413,-117.924743,34320,Valley Vista Services
+689 Hodges Dr,Mantachie,MS,38855,662-282-4261,a,a,1,1,34.324011,-88.49202,51879,Northeast Mississippi Natural Gas District
+2618 Hendersonville Rd,Arden,NC,28704,828-654-8300,a,a,1,1,35.447587,-82.507719,32226,NC - CNG
+1450 Country Club Dr,Jackson,MS,39209,800-950-3835,a,a,1,1,32.347881,-90.248153,53760,Clean N' Green - Waste Management
+490 N 1500 W,Orem,UT,84057,801-324-5111  307-783-4934,a,a,1,1,40.3063492,-111.7312111,28177,Sinclair
+28662 Camino Capistrano,San Juan Capistrano,CA,92675,949-365-9027,a,a,1,1,33.54745,-117.67385,35007,Arco - Go Natural Gas
+755 Beechnut Dr,Pittsburgh,PA,15205,888-378-8646,a,a,1,1,40.453507,-80.085371,36311,Giant Eagle GetGo
+287 Maspeth Ave,Brooklyn,NY,11211,718-963-5495,a,a,1,1,40.7180542,-73.931507,108,Clean Energy - National Grid Greenpoint Energy Center
+8190 S Pariette Rd,Myton,UT,84052,801-952-2942  801-886-7200,a,a,1,1,40.1280816,-109.9854145,49288,Blu LNG - Blu Travel Plaza
+2450 S Highway 191,Moab,UT,84532,801-324-3900,a,a,1,1,38.537069,-109.513258,35786,Questar Gas - Moab Service Center
+4101 Wible Rd,Bakersfield,CA,93313,800-684-4648,a,a,1,1,35.316494,-119.0394394,801,PG&E Bakersfield Service Center
+12125 Day St,Moreno Valley,CA,92557,866-232-8137,a,a,1,1,33.945941,-117.279705,48516,Go Natural Gas
+3520 NW 36th St,Lincoln,NE,68524,402-458-2480,a,a,1,1,40.84754,-96.7722,38484,Lincoln Airport Authority
+6000 Debbielou Gardens Dr,Houston,TX,77034,281-484-3875,a,a,1,1,29.6186502,-95.1903552,49286,Freedom CNG
+11 Riverside St,Nashua,NH,3062,617-242-8755,a,a,1,1,42.748922,-71.497919,41356,Alternative Vehicle Service Group - Nashua
+412 SE 59th St,Oklahoma City,OK,73129,888-609-2410  800-664-5463,a,a,1,1,35.4062353,-97.5027129,740,Oklahoma Natural Gas - Southside Service Center
+2800 Workman Mill Rd,Whittier,CA,90601,562-493-2804,a,a,1,1,34.02413,-118.033024,41172,Clean Energy - Los Angeles County Sanitation District
+1440 S Cucamonga St,Ontario,CA,91761,909-395-2640,a,a,1,1,34.047068,-117.634077,1370,City of Ontario - City Yard
+680 Ridge Pike,Plymouth Meeting,PA,19462,610-648-7809,a,a,1,1,40.096708,-75.296836,787,PECO Energy - Plymouth Station
+18825 Old LaGrange Rd,Mokena,IL,60448,708-446-5542,a,a,1,1,41.548323,-87.850177,52486,Ozinga Energy - Mokena Station
+117 N Winter St,Adrian,MI,49221,517-264-4447  517-265-2144,a,a,1,1,41.8999666,-84.0374774,156,DTE Energy - Citizens Gas Fuel Co
+1595 Mendon Rd,Cumberland,RI,2864,866-278-3674,a,a,1,1,41.9403704,-71.4331101,7118,Clean Energy - National Grid Cumberland
+15330 Woodruff Ave,Bellflower,CA,90706,562-923-5441,a,a,1,1,33.8948596,-118.116177,21985,California Clean Fuels
+2615 S 64th Ave,Omaha,NE,68106,402-554-6666,a,a,1,1,41.235084,-96.012438,38060,Metropolitan Utilities District
+700 Scaramella Cir,Hemet,CA,92545,951-565-5000,a,a,1,1,33.735948,-117.011173,34321,Riverside Transit Agency - Hemet - Public Access
+7984 US Highway 85,Fort Lupton,CO,80621,303-857-9985,a,a,1,1,40.1161043,-104.8105946,36294,North Station
+1235 Rush-Scottsville Rd,Rush,NY,14543,866-278-3674  716-272-3310,a,a,1,1,43.0030672,-77.6736116,32799,Clean Energy - New York State Department of Transportation
+101 S Main St,Owasso,OK,74055,918-641-2583,a,a,1,1,36.264896,-95.854698,36773,Blue Energy Fuels - City of Owasso
+2727 Brice Rd,Reynoldsburg,OH,43068,614-398-3401,a,a,1,1,39.92805,-82.8312849,41634,CNG Trans
+4295 Clevemont Rd,Ellenwood,GA,30294,404-273-6382,a,a,1,1,33.6530902,-84.2538386,36304,Dekalb County - Seminole Road Landfill
+3601 NE Indiana St,Bartlesville,OK,74006,888-609-2410  800-664-5463,a,a,1,1,36.7624531,-95.9388963,20920,Oklahoma Natural Gas - Bartlesville Service Center
+1550 County Rd 715,Hanceville,AL,35077,256-737-1600,a,a,1,1,34.1330416,-86.8167177,53619,Cullman - Jefferson Gas
+100 N Riverfront Blvd,Dallas,TX,75207,562-493-2804,a,a,1,1,32.7797007,-96.8133413,37120,Clean Energy - Downtown Dallas
+1001 Fairview St,Camden,NJ,8104,800-950-3835,a,a,1,1,39.9141814,-75.1075644,39060,Clean N' Green - Waste Management
+100 Lindbergh Rd,Newark,NJ,7114,973-624-0300  516-710-1898,a,a,1,1,40.691831,-74.184861,36310,Newark Liberty International Airport - Gulf
+5848 E 15th St,Tulsa,OK,74112,888-609-2410  800-664-5463,a,a,1,1,36.138765,-95.9112899,755,Oklahoma Natural Gas - Tulsa Service Center
+1175 S Main St,Heber City,UT,84032,435-654-5530,a,a,1,1,40.493191,-111.412469,41084,Mountainland One Stop
+4750 W South Ave,Tampa,FL,33614,562-493-2804,a,a,1,1,27.99152,-82.5234,40323,Clean Energy - Hillsborough County Aviation Authority - Tampa International Airport
+501 North F St,Wasco,CA,93280,661-756-7236,a,a,1,1,35.5968661,-119.3337364,34832,City of Wasco
+267 Fritz Rd,Lock Haven,PA,17745,570-769-6977,a,a,1,1,41.158537,-77.349168,53005,Wayne Township Landfill
+127 Whites Path,South Yarmouth,MA,2664,800-233-5325,a,a,1,1,41.688787,-70.201253,139,Clean Energy - National Grid Cape Cod
+1069 Wilkes Rd,Fayetteville,NC,28306,864-286-7911,a,a,1,1,35.026178,-78.867459,51475,Piedmont Natural Gas - Fayetteville - Public Access
+2222 Unified Way,San Jose,CA,95125,800-920-1166,a,a,1,1,37.2966371,-121.8733311,18925,Trillium CNG - San Jose Unified School District
+796 Washington Ave,Mansfield,LA,71052,318-872-0325,a,a,1,1,32.0302328,-93.7108581,41449,Chevron - Shop A Lot #3
+3754 E California Ave,Fresno,CA,93725,800-684-4648,a,a,1,1,36.7213057,-119.760617,806,PG&E Fresno Service Center
+1121 Radisson St,Green Bay,WI,54302,920-432-0771,a,a,1,1,44.525125,-87.991544,53778,Trillium CNG - Radisson St - Green Bay WI
+3535 India St,San Diego,CA,92103,562-493-2804,a,a,1,1,32.739694,-117.17785,48901,Clean Energy - San Diego Airport - India Shell
+2712 Discovery Dr,Raleigh,NC,27616,877-776-2427,a,a,1,1,35.8617339,-78.594068,907,PSNC Energy
+101 Railroad Ave,Rifle,CO,81650,970-625-4022,a,a,1,1,39.529963,-107.783646,35939,Shell - Rocky Mountain Alternative Fueling
+7496 Round Pond Rd,North Syracuse,NY,13212,866-278-3674,a,a,1,1,43.133934,-76.08708,42092,Clean Energy - National Grid Beacon North
+100 Ransier Dr,West Seneca,NY,14224,800-950-3835,a,a,1,1,42.844172,-78.74579,42093,Clean N' Green - Waste Management
+709 W Sunset Rd,Henderson,NV,89011,702-676-1500,a,a,1,1,36.063591,-115.022969,1081,Clean Energy - Regional Transportation Commission of Southern Nevada
+3751 Greenfield Rd,Melvindale,MI,48122,888-383-5648,a,a,1,1,42.2917824,-83.1763718,37620,DTE Energy - Allen Rd
+500 44th St SW,Wyoming,MI,49548,888-383-5648,a,a,1,1,42.881889,-85.676462,40831,DTE Energy - Padnos
+400 E Blaine St,Gary,IN,46406,708-446-5542,a,a,1,1,41.605516,-87.429389,52204,Ozinga Energy - Gary
+800 S Broadway,Edmond,OK,73034,405-330-6009,a,a,1,1,35.646194,-97.481951,36587,OnCue Express #105 - C-Store
+11363 Center Rd,Sheridan,NY,14135,716-672-2788,a,a,1,1,42.4912,-79.237,51034,Cotton CNG
+536 Treat Ave,San Francisco,CA,94110,800-684-4648,a,a,1,1,37.7604822,-122.4137745,813,PG&E San Francisco Service Center
+1830 Agua Mansa Rd,Riverside,CA,92509,951-486-3200  562-493-2804,a,a,1,1,34.023199,-117.380669,39196,Clean Energy - Riverside County Waste Management
+11790 Highway 4,Upper Sandusky,OH,43351,419-294-3838,a,a,1,1,40.905689,-83.289944,53322,Kalmbach Clean Fuels
+112 Verbena St,Charlotte,NC,28217,704-587-3128,a,a,1,1,35.1836144,-80.8798179,53318,Piedmont Natural Gas - Charlotte - Public Access Rear
+4211 Groves Rd,Columbus,OH,43232,614-645-8281  614-288-7947,a,a,1,1,39.9297003,-82.8855805,36584,City of Columbus Fleet Management
+1200 Mississippi St,San Francisco,CA,94107,562-493-2804,a,a,1,1,37.751347,-122.39527,30634,Clean Energy - Yellow Cab Co-op
+1721 Alum Creek Dr,Columbus,OH,43207,740-327-7255  740-404-2123,a,a,1,1,39.9336262,-82.9422277,20858,CNG Auto Sales - Franklin County
+205 Sigma Pl,Guthrie,OK,73044,800-664-5463  888-609-2410,a,a,1,1,35.8587409,-97.425514,20916,Oklahoma Natural Gas - Guthrie Service Center
+211 Maury St,Richmond,VA,23224,562-493-2804,a,a,1,1,37.5225859,-77.433474,48915,Clean Energy - Quarles
+14501 Park Ln,Desert Hot Springs,CA,92240,562-493-2804,a,a,1,1,33.94317,-116.498,26307,Clean Energy - Desert Hot Springs Mission Springs Water District
+5317 SE 44th St,Norman,OK,73072,405-364-0059,a,a,1,1,35.1820926,-97.519413,46194,Love's Country Store #260
+4600 Rib Mountain Dr,Wausau,WI,54401,800-920-1166,a,a,1,1,44.914159,-89.650533,44852,Trillium HD - Rib Mountain Travel Center
+3200 Crater Lake Ave,Medford,OR,97504,541-779-5821,a,a,1,1,42.3637024,-122.8556042,18888,Rogue Valley Transportation District
+534 N Barranca Ave,Covina,CA,91723,626-384-5480,a,a,1,1,34.0912461,-117.881311,1009,City of Covina - City Corporate Yard
+5555 Florin-Perkins Rd,Sacramento,CA,95826,800-684-4648,a,a,1,1,38.526126,-121.388521,842,PG&E Florin-Perkins Service Center
+3101 Beverly Manor Dr,Seal Beach,CA,90740,562-493-2804,a,a,1,1,33.773534,-118.077463,18929,Clean Energy - Seal Beach
+117 W Summit St,Ann Arbor,MI,48104,888-383-5648,a,a,1,1,42.288346,-83.7464789,21752,DTE Energy - Ann Arbor Municipal Garage
+5220 Metro Park Dr,Tuscaloosa,AL,35405,205-326-8180,a,a,1,1,33.161768,-87.55676,44841,Alagasco Tuscaloosa Operations Center - Public
+7102 Silver Creek Rd,Park City,UT,84098,435-649-9243,a,a,1,1,40.7358029,-111.4998189,52695,CNG America - Bells Silver Creek - Sinclair
+1020 N Hercules Ave,Clearwater,FL,33755,727-562-4900,a,a,1,1,27.975825,-82.7546295,35593,Clearwater Gas Systems
+4555 Edison Dr,College Park,GA,30337,781-685-4857,a,a,1,1,33.632322,-84.465897,33716,Clean Energy - College Park
+808 W Main St,Medford,OR,97501,541-774-6960,a,a,1,1,42.3237416,-122.8804171,18887,Jackson County Motorpool
+592 Superior Ave,Newport Beach,CA,92663,562-493-2804,a,a,1,1,33.632034,-117.92754,35656,Clean Energy - Newport Beach
+73 E Carson St,Pittsburgh,PA,15219,412-471-1529,a,a,1,1,40.4307664,-80.0006111,52691,American Natural Energy Centre
+975 W Main St,Rock Hill,SC,29730,803-323-5321,a,a,1,1,34.9358326,-81.0424482,39655,York County Natural Gas Authority
+16644 S Elm Ave,Caruthers,CA,93609,559-644-1000,a,a,1,1,36.4936126,-119.7911401,26821,Southwest Education Support Service Center
+645 Pine St,Burlington,VT,5401,802-863-9094,a,a,1,1,44.4614881,-73.2148785,35055,City of Burlington
+38 Allegiance Cir,Evanston,WY,82930,307-783-4934,a,a,1,1,41.26168,-110.992,35056,Questar Gas - Evanston
+500 W Commerce,Clinton,OK,73601,888-609-2410  800-664-5463,a,a,1,1,35.479664,-98.9797011,20918,Oklahoma Natural Gas - Clinton Service Center
+205 Brush St,Oakland,CA,94607,562-493-2804,a,a,1,1,37.798972,-122.283854,30630,Clean Energy - Port of Oakland
+10129 US Highway 62 W,Princeton,KY,42445,270-365-6200,a,a,1,1,37.1044239,-87.9900679,44513,Freedom Waste Service
+506 Cass St,La Crosse,WI,54601,608-782-6474,a,a,1,1,43.808351,-91.249744,44847,Kwik Trip #761
+6427 Oak Canyon,Irvine,CA,92618,562-493-2804,a,a,1,1,33.6757665,-117.7648651,1022,Clean Energy - Irvine City Yard
+9240 E Firestone Blvd,Downey,CA,90241,213-244-5681,a,a,1,1,33.9324875,-118.1191132,1353,SoCalGas - Energy Resource Center
+1130 Tupelo St,Memphis,TN,38108,901-320-1473,a,a,1,1,35.1668822,-89.9727942,1215,"Memphis Light, Gas and Water - Choctaw Station"
+11099 E I-25 Frontage Rd,Firestone,CO,80504,678-450-2189,a,a,1,1,40.16198,-104.977,39185,SkyBlu
+1050 W 200 N,Logan,UT,84321,435-753-7461,a,a,1,1,41.7356317,-111.8606013,548,LW's Conoco
+950 N Todd Ave,Azusa,CA,91702,213-244-5681,a,a,1,1,34.13858,-117.923815,25600,SoCalGas - Azusa Base
+334 E Riverside Dr,Saint George,UT,84790,435-674-7699,a,a,1,1,37.0815864,-113.5767967,35787,Sinclair
+201 Highway 3175,Natchitoches,LA,71457,318-357-1436,a,a,1,1,31.7539641,-93.0850121,60087,Shop A Lott #20
+179 Turner Tpk,Stroud,OK,74079,888-609-2410,a,a,1,1,35.751853,-96.689631,752,Phillips 66 Station
+800 S Morgan Rd,Oklahoma City,OK,73128,405-789-0087,a,a,1,1,35.457895,-97.688408,47291,Love's Travel Stop #203
+97 Crooked Hill Rd,Commack,NY,11725,800-920-1166  801-674-5806,a,a,1,1,40.8063513,-73.288898,44844,Trillium CNG - Suffolk County - Commack
+533 Industrial Park Rd,Jane Lew,WV,26378,877-742-4476,a,a,1,1,39.100661,-80.395092,60209,IGS CNG Services
+10400 Aviation Blvd,Los Angeles,CA,90045,562-493-2804,a,a,1,1,33.94165802,-118.3780136,1251,Clean Energy - Los Angeles International Airport
+9150 S 500 W,Sandy,UT,84070,801-324-3900  801-324-5987,a,a,1,1,40.5836088,-111.9057181,522,Questar Gas - Sandy
+1000 N Jefferson Ave,Casa Grande,AZ,85122,800-920-1166,a,a,1,1,32.882278,-111.777442,46345,Trillium CNG - Golden Eagle - Casa Grande
+501 W 61 St,Minneapolis,MN,55419,612-861-8447,a,a,1,1,44.89148,-93.2858,606,CenterPoint Energy - Minnegasco
+20350 Madrona Ave,Torrance,CA,90503,562-493-2804,a,a,1,1,33.846788,-118.344743,40851,Clean Energy - City of Torrance
+1150 W 200 S,Salt Lake City,UT,84104,801-324-5987,a,a,1,1,40.7649992,-111.9240049,528,Questar Gas - Salt Lake City
+3145 N Western Ave,Chicago,IL,60618,562-493-2804  773-935-7200,a,a,1,1,41.9389352,-87.6871654,39186,Clean Energy - GrandSlam Marathon
+3831 Powerline Rd,Pompano Beach,FL,33073,800-950-3835,a,a,1,1,26.276671,-80.1523358,47273,Clean N' Green - Waste Management
+1905 Prospect Ct,Appleton,WI,54914,800-920-1166,a,a,1,1,44.245683,-88.483089,51612,Trillium CNG - Prospect Court - Appleton
+102 SE 2nd St,Guymon,OK,73942,580-338-2414,a,a,1,1,36.678328,-101.481176,46192,Love's Country Store #19
+1833 Tucker Industrial Rd,Tucker,GA,30084,562-493-2804,a,a,1,1,33.836213,-84.202982,36306,Clean Energy - PS Energy - Tucker
+9535 S 13th St,Oak Creek,WI,53154,414-762-2370,a,a,1,1,42.87117,-87.933519,53780,Kwik Trip #422
+3015 E Comstock Ave,Nampa,ID,83687,208-685-7739  208-345-1265,a,a,1,1,43.593304,-116.534414,36580,Clean Energy - Republic Services
+33 Maxim Rd,Hartford,CT,6114,562-493-2804,a,a,1,1,41.742085,-72.658875,43699,Clean Energy - All WasteUSA Hauling
+84 East J St,Chula Vista,CA,91910,800-411-7343,a,a,1,1,32.6319314,-117.0582237,939,Chula Vista Education Center
+2270 46th St NW,Owatonna,MN,55060,507-446-8176,a,a,1,1,44.1388645,-93.2571518,49284,Kwik Trip #403
+2424 5E Employee Rd,Irving,TX,75261,562-493-2804,a,a,1,1,32.876733,-97.039256,21975,Clean Energy - Dallas/Fort Worth Airport South
+22800 E 78th Ave,Denver,CO,80249,562-493-2804,a,a,1,1,39.838153,-104.7090156,648,Clean Energy - Denver International Airport Rental Car
+12641 N 39th Ave,Phoenix,AZ,85029,602-347-4834,a,a,1,1,33.6013089,-112.1419547,1286,Washington Elementary School District
+McCarty Ave & Hoffman Ave,Albany,NY,12202,866-278-3674  518-473-6594,a,a,1,1,42.635536,-73.777047,12780,Clean Energy - New York State Office of General Services
+2025 S 900 W,Salt Lake City,UT,84104,801-952-2940  801-886-7200,a,a,1,1,40.72719,-111.916598,37622,Blu LNG - Flying J Travel Plaza
+1215 E 16th St,Dubuque,IA,52001,563-557-5180,a,a,1,1,42.512003,-90.656218,53313,Kwik Stop BP - 16th Street
+1125 Broadway,Albany,NY,12204,866-278-3674,a,a,1,1,42.667569,-73.739345,703,Clean Energy - National Grid Albany
+16645 Saticoy St,Van Nuys,CA,91406,213-244-5681,a,a,1,1,34.2090795,-118.4964425,1006,SoCalGas - Van Nuys Base
+18 7th St,Marysville,CA,95901,800-684-4648,a,a,1,1,39.1430188,-121.5835832,26310,PG&E Marysville Service Center
+3000 Old US Highway 85,Socorro,NM,87801,575-835-0240,a,a,1,1,34.04919,-106.892,36778,City of Socorro
+112 Barlow Rd,Binghamton,NY,13904,866-278-3674  607-775-0522,a,a,1,1,42.102067,-75.837939,32836,Clean Energy - New York State Department of Transportation
+624 W 15th St,Merced,CA,95340,800-684-4648,a,a,1,1,37.2999099,-120.4867831,30832,PG&E Merced Service Center
+680 E Highway 152,Mustang,OK,73064,888-609-2410  800-664-5463,a,a,1,1,35.391652,-97.711708,20917,Oklahoma Natural Gas - Mustang Service Center
+164 Pond St,Stoneham,MA,2180,617-242-8755,a,a,1,1,42.4636571,-71.0920014,20904,Alternative Vehicle Service Group - Stoneham
+3545 Fairfield Rd,Curtis Bay,MD,21226,800-950-3835,a,a,1,1,39.232397,-76.572608,43630,Clean N' Green - Waste Management
+2618 Monroe Rd,De Pere,WI,54115,920-339-4652,a,a,1,1,44.453927,-87.995461,53777,Kwik Trip #416
+1126 Hammondville Rd,Pompano Beach,FL,33069,954-636-4291,a,a,1,1,26.235255,-80.139089,42087,Wise Gas
+505 SE Transport Dr,Lee's Summit,MO,64081,949-437-1000,a,a,1,1,38.8935746,-94.3600882,53759,Lee's Summit - Kansas City Metro Area - Public Station
+501 N 3rd St,Coshocton,OH,43812,740-327-7255  740-404-2123,a,a,1,1,40.278374,-81.8668607,19149,CNG Auto Sales
+117 Doctors Path,Riverhead,NY,11901,631-548-7102,a,a,1,1,40.940179,-72.65268,18898,Clean Energy - National Grid Riverhead Service Center
+2926 Smallman St,Pittsburgh,PA,15222,855-264-3835,a,a,1,1,40.4590653,-79.9741978,35780,EQT - Strip District
+2541 Whilden Dr,Durham,NC,27713,877-776-2427,a,a,1,1,35.947924,-78.884114,48006,PSNC Energy
+300 W Metz Rd,Perris,CA,92570,951-943-6369,a,a,1,1,33.7936691,-117.2340898,37122,Perris Union High School District - Public Access
+6250 Packard Rd,Niagara Falls,NY,14304,716-827-5505,a,a,1,1,43.105566,-78.9930119,659,National Fuel - Niagara Falls
+5901 Sheridan Blvd,Arvada,CO,80003,562-493-2804,a,a,1,1,39.8034939,-105.0528835,629,Clean Energy - Arvada
+8515 San Leandro St,Oakland,CA,94621,562-493-2804,a,a,1,1,37.746211,-122.188413,30629,Clean Energy - CFN Olympian
+1184 Lance Rd,Norfolk,VA,23502,757-466-5506,a,a,1,1,36.8662444,-76.2165194,1108,Virginia Natural Gas - Lance Rd
+3200 E State Highway 158,Midland,TX,79702,713-296-7479,a,a,1,1,31.9824546,-102.0375306,50650,Apache Midland - Stripes #2285
+2931 Rufina St,Santa Fe,NM,87507,562-493-2804  505-955-2001,a,a,1,1,35.6565689,-105.9966376,360,Clean Energy - Santa Fe Trails Transit
+5495 Lakeland Dr,Flowood,MS,39232,601-982-1244,a,a,1,1,32.350721,-90.030272,43051,NGV Solutions LLC - Public Station
+1601 W Airline Rd,Pauls Valley,OK,73075,405-207-9692,a,a,1,1,34.7046239,-97.2484831,47292,Love's Country Store #452
+4735 Converters Dr,Appleton,WI,54913,920-830-3189,a,a,1,1,44.288733,-88.477893,51885,Kwik Trip #887
+5488 Overland Ave,San Diego,CA,92123,213-244-5681,a,a,1,1,32.8335042,-117.1309957,952,SDG&E Service Center - Kearny
+113 N Gulph Rd,King of Prussia,PA,19406,610-265-2222,a,a,1,1,40.085399,-75.390523,50051,Lehigh Gas - Exxon
+2500 Royal Ave,Monona,WI,53713,608-221-0328,a,a,1,1,43.043003,-89.353363,50036,Speedway
+W McKnight Way,Grass Valley,CA,95949,800-684-4648,a,a,1,1,39.19964,-121.061,792,PG&E Grass Valley Service Center
+7507 Highway 31 E,Sellersburg,IN,47172,312-300-6700,a,a,1,1,38.37339,-85.7468,48904,AMP Americas
+4355 Lafayette Blvd,Indianapolis,IN,46254,317-829-1478,a,a,1,1,39.834772,-86.2453931,31839,Indiana Geothermal
+124 Old Riverhead Rd,Westhampton Beach,NY,11978,800-920-1166  801-674-5806,a,a,1,1,40.8298181,-72.6468268,44845,Trillium CNG - Suffolk County - Westhampton Airport
+1271 River Dr N,Mankato,MN,56001,507-625-4190,a,a,1,1,44.188375,-94.0126398,53003,Kwik Trip #334
+940 Baldwin Plaza Dr,Baldwin,WI,54002,715-684-5145,a,a,1,1,44.941085,-92.373645,53007,Kwik Trip #696
+4520 Barksdale Blvd,Bossier City,LA,71112,318-741-8441,a,a,1,1,32.4717595,-93.6727339,36776,City of Bossier City
+1326 S 4th St,Chickasha,OK,73018,405-222-2355,a,a,1,1,35.0373019,-97.937166,46198,Love's Country Store #86
+10588 Route 68 N,Rimersburg,PA,16248,814-590-4498,a,a,1,1,41.0753475,-79.4829123,48500,"""O"" Ring CNG Fuels Systems - Innovative Entrepreneurs Inc"
+2950 Ronemus Dr,Las Vegas,NV,89128,702-229-6971,a,a,1,1,36.214646,-115.257149,7018,City of Las Vegas
+25 N Bicycle Path,Seldon,NY,11784,631-702-5957,a,a,1,1,40.8679541,-73.0341954,38567,Engineered Energy Solutions
+11101 W Executive Dr,Boise,ID,83713,208-685-7739  208-345-1265,a,a,1,1,43.609303,-116.320022,34475,Clean Energy - Republic Services
+2749 Loop 336 E,Conroe,TX,77301,800-950-3835,a,a,1,1,30.3319028,-95.4085402,43670,Clean N' Green - Waste Management
+45149 Old Ox Rd,Sterling,VA,20166,562-493-2804,a,a,1,1,38.9791025,-77.4389239,49302,Clean Energy - Quarles- Washington Dulles International Airport
+650 NW 27th Ave,Fort Lauderdale,FL,33311,954-636-4291,a,a,1,1,26.13065,-80.175803,35505,Wise Gas
+200 E 9300 S,Salt Lake City,UT,84070,801-826-5252,a,a,1,1,40.58317,-111.884,42607,Canyons School District
+2351 Goddard Ave,Norman,OK,73019,405-292-9709,a,a,1,1,35.2463887,-97.4616689,43651,City of Norman
+18899 Snow Rd,Brook Park,OH,44017,562-493-2804,a,a,1,1,41.403106,-81.830147,41678,Clean Energy - Cleveland Hopkins International Airport
+3526 Security St,Garland,TX,75042,562-493-2804,a,a,1,1,32.897241,-96.6837453,477,Clean Energy - Garland
+15 Overland Industrial Blvd,Asheville,NC,28806,877-776-2427,a,a,1,1,35.520138,-82.60381,48005,PSNC Energy
+16401 N Rockwell Ave,Edmond,OK,73013,405-348-3835,a,a,1,1,35.6375739,-97.6385544,35418,Total Express
+500 Robbins Ln,Syosset,NY,11791,866-278-3674  631-632-9184,a,a,1,1,40.7973955,-73.5150471,27164,Clean Energy - New York State Department of Transportation
+811 S Federal,Riverton,WY,82501,307-857-7583,a,a,1,1,43.015983,-108.378351,38180,Encana - Pit Stop Travel Center
+1744 E Winsett St,Tucson,AZ,85719,562-493-2804,a,a,1,1,32.214438,-110.94581,29168,Clean Energy - Tucson Winsett
+551 S Van Ave,Houma,LA,70363,985-580-3339,a,a,1,1,29.577535,-90.7104932,53316,Gaubert Food Marts Inc
+6828 Pines Rd,Shreveport,LA,71129,318-687-1667,a,a,1,1,32.4445971,-93.8626908,42587,Time-it-Lube
+490 E State St,Lindon,UT,84042,801-538-3440  800-678-3440,a,a,1,1,40.3465692,-111.7253046,23214,Alpine School District
+1650 Patton Ct,Oxnard,CA,93030,213-244-5681,a,a,1,1,34.1916138,-119.1611598,1025,SoCalGas - Oxnard Base
+17700 Indian Ave,Moreno Valley,CA,92551,562-493-2804,a,a,1,1,33.86373,-117.232,982,Clean Energy - Waste Management - Moreno Valley - Public Access
+670 Allens Ave,Providence,RI,2903,866-278-3674,a,a,1,1,41.795367,-71.397758,788,Clean Energy - National Grid Providence
+1136 N Elston Ave,Chicago,IL,60642,800-920-1166,a,a,1,1,41.9025057,-87.6574951,53314,Peoples Gas
+333 Sacramento St,Auburn,CA,95603,800-684-4648,a,a,1,1,38.8888727,-121.0743561,835,PG&E Auburn Service Center
+3401 S Radio Rd,El Reno,OK,73036,405-372-3579,a,a,1,1,35.505253,-97.900853,36588,OnCue Express #351
+111 W Raymond St,Indianapolis,IN,46225,317-786-6253,a,a,1,1,39.7363349,-86.160971,147,Greene's Auto & Truck Service - Citizens Energy Group
+11043 French Rd,Detroit,MI,48234,888-383-5648,a,a,1,1,42.408116,-83.009952,20914,DTE Energy - Lynch Rd
+1123 W 3rd Ave,Denver,CO,80223,562-493-2804,a,a,1,1,39.7214101,-105.0035569,645,Clean Energy - Denver
+5625 SW Wenger St,Topeka,KS,66609,801-324-3802,a,a,1,1,38.9711427,-95.7016121,60117,Questar Fueling - Topeka Station
+60 S Spokane St,Seattle,WA,98134,800-663-4555  888-732-6487,a,a,1,1,47.572682,-122.33599,34242,Clean Energy - Seattle Station
+1 NW 23rd St,Oklahoma City,OK,73103,405-557-1170,a,a,1,1,35.49341,-97.5116,36592,OnCue Express #101 - C-Store
+714 Industrial Park Dr,Pell City,AL,35125,205-326-8180,a,a,1,1,33.601083,-86.260778,44840,Alagasco St Clair Operations Center - Public
+1001 Cougar Way,Beaumont,CA,92223,951-845-3010,a,a,1,1,33.9543039,-116.9677825,34108,Beaumont Unified School District
+3145 Dodd Rd,Eagan,MN,55121,651-405-8543,a,a,1,1,44.843626,-93.123586,53757,Kwik Trip #662
+425 S 1778 E,Salt Lake City,UT,84102,801-538-3440  800-678-3440,a,a,1,1,40.7615049,-111.8378784,23217,University of Utah
+2611 Greengate Dr,Greensboro,NC,27406,336-271-5030,a,a,1,1,36.025072,-79.796413,53319,Piedmont Natural Gas - Greensboro - Public Access Rear
+41 N 6300 W,Hurricane,UT,84737,435-628-4858,a,a,1,1,37.1609283,-113.4354943,35385,Chevron Coral Canyon Market
+1401 New Hampshire St,Rock Springs,WY,82901,307-352-7383  801-324-5987,a,a,1,1,41.5782346,-109.2042145,507,Questar Gas - Rock Springs
+1615 Bronxdale Ave,Bronx,NY,10462,718-904-4504,a,a,1,1,40.8437076,-73.8576753,129,Con Edison - Van Nest Service Center
+3105 8th Ave N,Birmingham,AL,35203,205-521-0170,a,a,1,1,33.5289852,-86.7945833,32154,Birmingham Jefferson County Transit Authority (BJCTA)
+10 Harbor Lock Rd W,Utica,NY,13501,866-278-3674  315-733-2967,a,a,1,1,43.113083,-75.2183302,32970,Clean Energy - New York State Department of Transportation
+4501 S 2700 W,Salt Lake City,UT,84119,801-965-4000,a,a,1,1,40.6691528,-111.9579339,23216,Utah Department of Transportation
+25 N Lake Ave,Worcester,MA,1605,617-242-8755,a,a,1,1,42.275883,-71.760138,18891,Alternative Vehicle Service Group - Worcester
+1030 Detroit Ave,Concord,CA,94518,800-684-4648,a,a,1,1,37.9561459,-122.028624,816,PG&E Concord Service Center
+909 S Wharton St,El Campo,TX,77437,979-543-6284,a,a,1,1,29.189434,-96.2610841,53773,Apache El Campo
+12698 Industry St,Garden Grove,CA,92841,213-244-5681,a,a,1,1,33.7790945,-118.0080865,1017,SoCalGas - Garden Grove Base
+203 S Main,Kingfisher,OK,73750,405-375-5019,a,a,1,1,35.8598021,-97.932597,36589,Love's Country Store #5
+2553 Riverside Pkwy,Grand Junction,CO,81501,970-244-1532,a,a,1,1,39.0704885,-108.579077,36775,City of Grand Junction - Public Access
+5162 Munson Hwy,Milton,FL,32570,850-983-5401,a,a,1,1,30.6779492,-86.9929162,864,City of Milton
+3751 Fraser St,Aurora,CO,80011,562-493-2804,a,a,1,1,39.767862,-104.813315,7043,Clean Energy - Natural
+4040 S 80th St,Mesa,AZ,85212,800-950-3835,a,a,1,1,33.342023,-111.663908,43723,Clean N' Green - Waste Management
+211 Triple V Cir,Sandersville,GA,31082,478-232-8034,a,a,1,1,32.959928,-82.812369,51033,Highland Energy - Sandersville
+1211 N 2nd St,Millville,NJ,8332,800-716-5550,a,a,1,1,39.411616,-75.037463,47288,South Jersey Gas
+7501 Grade Ln,Louisville,KY,40219,800-950-3835,a,a,1,1,38.1404534,-85.737987,48488,Clean N' Green - Waste Management
+2690 3rd St,San Francisco,CA,94107,562-493-2804,a,a,1,1,37.755584,-122.388208,30632,Clean Energy - Olympian Oil
+1650 Islip Ave,Brentwood,NY,11722,631-348-6179,a,a,1,1,40.7841528,-73.2192699,448,Clean Energy - National Grid Brentwood Service Center
+2023 W Collins Ave,Orange,CA,92867,714-955-0381,a,a,1,1,33.8037577,-117.8748016,35598,Orange County Public Works
+201 Rivermoor St,West Roxbury,MA,2132,800-233-5325,a,a,1,1,42.2788899,-71.180333,83,Clean Energy - National Grid West Roxbury
+8095 Lincoln Ave,Riverside,CA,92504,888-758-4389,a,a,1,1,33.92399216,-117.4119492,25437,Riverside
+2125 Sanders St,Conway,AR,72032,877-879-0376,a,a,1,1,35.1116647,-92.4368498,51466,Southwestern Energy - Conway
+2200 Sunport Blvd SE,Albuquerque,NM,87106,562-493-2804,a,a,1,1,35.049344,-106.620964,33427,Clean Energy - Albuquerque International Sunport
+2105 S 1100 W,Ogden,UT,84401,801-392-5010  801-392-9516,a,a,1,1,41.22828,-112.006,552,Phillips 66
+1005 E Owen K Garriot,Enid,OK,73701,580-237-4898,a,a,1,1,36.390139,-97.862573,42592,OnCue Express #326 - C-Store
+200 Gulf Ave,Staten Island,NY,10303,718-982-7354,a,a,1,1,40.624617,-74.179494,103,Clean Energy - National Grid Staten Island Service Center
+308 Stockton Ave,San Jose,CA,95126,800-684-4648,a,a,1,1,37.3337801,-121.9058691,829,PG&E San Jose Service Center
+1055 N Alameda St,Los Angeles,CA,90012,562-493-2804,a,a,1,1,34.060172,-118.236898,26309,Clean Energy - Downtown Los Angeles
+316 L St,Davis,CA,95616,800-684-4648,a,a,1,1,38.5460707,-121.7334692,836,PG&E Davis Service Center
+44416 N Division St,Lancaster,CA,93535,800-920-1166,a,a,1,1,34.661889,-118.1235878,25763,SoCalGas - Lancaster Base
+45 McCormick Pl,Asheville,NC,28801,828-259-5700,a,a,1,1,35.588161,-82.550903,28133,City of Asheville
+455 Mill Rd,Hewlett,NY,11557,516-792-7284,a,a,1,1,40.6458262,-73.7056405,18900,Clean Energy - National Grid Hewlett Service Center
+424 W Cherry St,Milwaukee,WI,53212,414-264-7433,a,a,1,1,43.050524,-87.9167499,32721,Transit Express
+300 S Lynndale Dr,Appleton,WI,54914,920-243-5717,a,a,1,1,44.2596976,-88.4458484,1194,US Oil
+1172 W 2100 S,Ogden,UT,84401,801-399-5577,a,a,1,1,41.2283202,-112.0074441,35936,Flying J Travel Plaza - Ogden
+1800 W 47th Ave,Anchorage,AK,99517,907-248-0010,a,a,1,1,61.177864,-149.916369,36497,Ditch Witch of Alaska
+444 Hostetler Rd,Orrville,OH,44667,330-683-8710,a,a,1,1,40.8540085,-81.7679041,45572,Smith Dairy
+1305 E Oak St,Conway,AR,72032,501-327-7714,a,a,1,1,35.0912582,-92.4105954,46011,Satterfield Oak St Gulf
+1905 SE 37th St,Grimes,IA,50111,515-289-2121  515-669-0690,a,a,1,1,41.659057,-93.773918,42088,CH4 Solutions - Krueger BP
+275 Industrial Way,San Carlos,CA,94002,800-684-4648,a,a,1,1,37.52092,-122.266,810,PG&E San Carlos Service Center
+12466 Weld County Rd 2-1/4,Brighton,CO,80603,562-493-2804,a,a,1,1,40.0070013,-104.7996937,12772,Clean Energy - Natural Public Service Co
+2352 Bisso Ln,Concord,CA,94520,800-920-1166,a,a,1,1,37.982132,-122.0463764,21660,Trillium CNG - Mount Diablo Unified School District
+430 N Cota St,Corona,CA,92880,951-736-2307,a,a,1,1,33.8859506,-117.5718916,25425,City of Corona
+2150 Dr Martin Luther King Jr St,Indianapolis,IN,46202,317-927-6000,a,a,1,1,39.79769,-86.17253,146,Langsdale Facility - Citizens Energy Group
+1600 Gateway Blvd SE,Canton,OH,44707,562-493-2804,a,a,1,1,40.78073,-81.3681,41679,Clean Energy - Stark Area Regional Transit Authority
+1818 Holiday Dr,Athens,TN,37303,865-643-8000,a,a,1,1,35.467702,-84.644728,51621,PBG Energy
+1 Dana Rd,Valhalla,NY,10595,866-278-3674  914-592-6557,a,a,1,1,41.0823165,-73.8133383,131,Clean Energy - New York State Department of Transportation
+1100 Airport Rd SE,Salem,OR,97301,503-378-4304,a,a,1,1,44.922451,-123.00102,719,Oregon Department of Administrative Services Motor Pool
+7301 N Highway 81,Duncan,OK,73533,580-255-3111,a,a,1,1,34.580008,-97.967264,50647,America's Fuel 4 U
+9811 Harry Hines Blvd,Dallas,TX,75220,562-493-2804,a,a,1,1,32.8581397,-96.8809228,48913,Clean Energy - City of Dallas - NW Service Center
+670 West Ave L-8,Lancaster,CA,93534,661-940-4551,a,a,1,1,34.64942,-118.143,1032,Antelope Valley School Bus Transit
+1798 E 55th St,Cleveland,OH,44103,562-493-2804,a,a,1,1,41.5101204,-81.6520374,41681,Clean Energy - Ace Taxi Service
+1402 S Perkins Rd,Stillwater,OK,74074,405-624-9091,a,a,1,1,36.106647,-97.051776,42594,OnCue Express #314 - C-Store
+339 Doak Blvd,Ripon,CA,95366,209-599-2151,a,a,1,1,37.730484,-121.126881,48012,City of Ripon
+810 N 800 W,Scipio,UT,84656,435-758-2345,a,a,1,1,39.25537,-112.117,36312,Flying J Travel Plaza - Scipio
+6351 Shier-Rings Rd,Dublin,OH,43016,614-410-4757  614-659-5196,a,a,1,1,40.093209,-83.16221,41685,City of Dublin
+231 Bartlett St SW,Grand Rapids,MI,49503,888-383-5648,a,a,1,1,42.9578603,-85.6742241,12854,DTE Energy - Pacific Pride
+801 S Riverfront,Dallas,TX,75207,866-278-3674,a,a,1,1,32.776194,-96.813944,456,Clean Energy - Downtown Dallas
+200 Rangos Ln,Washington,PA,15301,724-222-3272  800-950-3835,a,a,1,1,40.208069,-80.273161,43071,Clean N' Green - Waste Management
+410 S Hawthorn,Sapulpa,OK,74066,888-609-2410,a,a,1,1,35.9936933,-96.1277899,12786,Oklahoma Natural Gas - Sapulpa Service Center
+1709 S Highway 183,Clinton,OK,73601,580-323-3041,a,a,1,1,35.490456,-98.9676889,50646,Domino Express #1
+41575 Eclectic St,Palm Desert,CA,92260,562-493-2804,a,a,1,1,33.744481,-116.359946,51599,Clean Energy - Palm Desert Burrtec Waste - Public Access
+1302 Washington Dam Rd,Washington City,UT,84780,435-656-6333,a,a,1,1,37.113921,-113.4789121,38055,Washington City Fleet Facility
+1501 W Madison St,Phoenix,AZ,85007,562-493-2804,a,a,1,1,33.445755,-112.091726,18928,Arizona Department of Administration
+1101 W Bridge St,Phoenixville,PA,19460,610-648-7809,a,a,1,1,40.125557,-75.536833,786,PECO Energy - Phoenixville Service Building
+4612 50th St,Tampa,FL,33619,800-920-1166,a,a,1,1,27.901609,-82.400557,52685,Trillium CNG - 50th Street - Tampa
+23924 Figueroa St,Carson,CA,90745,562-493-2804,a,a,1,1,33.807401,-118.28404,30619,Clean Energy - Los Angeles Sanitation District
+3200 Hobson St,Detroit,MI,48201,888-383-5648,a,a,1,1,42.341747,-83.068211,12850,DTE Energy - Noble
+8246 Route 5,Westfield,NY,14787,716-753-6565,a,a,1,1,42.3406874,-79.5959668,42590,HPW Energy Inc
+1607 2nd Ave,Greeley,CO,80631,678-450-2189,a,a,1,1,40.41301,-104.68,36293,SkyBlu
+2151 Airport Blvd,San Jose,CA,95110,800-920-1166,a,a,1,1,37.367444,-121.933097,22795,Trillium CNG - Mineta San Jose International Airport
+9225 Aviation Blvd,Los Angeles,CA,90045,562-493-2804,a,a,1,1,33.95125,-118.378006,39194,Clean Energy - Hertz - Los Angeles World Airports (LAX)
+1701 W Airline Rd,Pauls Valley,OK,73075,888-609-2410,a,a,1,1,34.7046239,-97.2484831,12783,Oklahoma Natural Gas - Pauls Valley Service Center
+44 Harding St,Middleborough,MA,2346,617-242-8755,a,a,1,1,41.902772,-70.968072,20905,Alternative Vehicle Service Group - Middleboro
+12225 N I-35 Service Rd,Oklahoma City,OK,73131,405-478-5766,a,a,1,1,35.59392,-97.4365,46191,Love's Country Store #205
+420 W 23rd St,Tulsa,OK,74107,918-527-0002,a,a,1,1,36.1303718,-95.9950383,47992,City of Tulsa West Maintenance Yard - Public Access
+5400 N Green Bay Ave,Milwaukee,WI,53209,920-243-5717,a,a,1,1,43.1164,-87.931676,1149,US Oil
+350 W Firebaugh Ave,Exeter,CA,93221,559-592-3318,a,a,1,1,36.2899417,-119.1428118,35220,City of Exeter
+13626 Twin Peaks Rd,Poway,CA,92064,858-748-0010,a,a,1,1,32.9785812,-117.0356209,945,Poway Unified School District
+1392 Highway 84 E,Coushatta,LA,71019,866-251-0032,a,a,1,1,32.015664,-93.316506,35940,Encana - Red River
+351 W 400 S,Circleville,UT,84723,435-577-2442,a,a,1,1,38.1645339,-112.2630795,46139,Circleville CNG
+22983 Brownsprings Rd,Thackerville,OK,73459,,a,a,1,1,33.735064,-97.143939,47293,Chickasaw Indian Nation - Thackerville
+1901 Airport Rd,South Lake Tahoe,CA,96150,800-920-1166,a,a,1,1,38.890966,-119.998746,18848,Trillium CNG - Tahoe Transportation District
+10900 N Blaney Ave,Cupertino,CA,95014,800-684-4648,a,a,1,1,37.333601,-122.0236407,828,PG&E Cupertino Service Center
+7500 Nordic Dr,Cedar Falls,IA,50613,319-277-1025,a,a,1,1,42.4700826,-92.4477705,52484,Kwik Trip #490
+4420 Buford Hwy NE,Chamblee,GA,30341,678-638-6197,a,a,1,1,33.8720582,-84.2963358,43705,American Fueling Systems
+200 E 1st Ave,Topeka,KS,66603,913-319-8600,a,a,1,1,39.05875,-95.6679,434,Kansas Gas Service
+2242 S Lumber St,Chicago,IL,60616,708-446-5542,a,a,1,1,41.851903,-87.643101,52485,Ozinga Energy - Lumber Street - Public Access
+1825 Route 309,Allentown,PA,18104,610-625-8109,a,a,1,1,40.6121352,-75.5706186,52494,Lehigh Gas - Exxon
+7020 Highway 61 W,Minnesota City,MN,55959,507-452-6230,a,a,1,1,44.075729,-91.730504,49283,Kwik Trip #623
+6700 Delilah Rd,Egg Harbor Township,NJ,8234,603-224-6582,a,a,1,1,39.419449,-74.538122,35309,Clean Energy - Atlantic County Utilities Authority
+4202 E Sky Harbor Blvd,Phoenix,AZ,85034,562-493-2804,a,a,1,1,33.437284,-111.987205,12798,Clean Energy - Phoenix Sky Harbor Airport - East Side Station
+14 Rover St,Everett,MA,2149,800-233-5325,a,a,1,1,42.3931907,-71.0643964,84,Clean Energy - National Grid Everett
+5900 W Reno Ave,Oklahoma City,OK,73127,405-787-2255,a,a,1,1,35.4635856,-97.6196181,36591,OnCue Express #100 - C-Store
+2525 Hygeia St,Corpus Christi,TX,78415,361-885-6910,a,a,1,1,27.7301673,-97.4263829,35138,City of Corpus Christi Gas Department
+1995 Veterans Blvd,Ardmore,OK,73401,888-609-2410,a,a,1,1,34.189832,-97.1082261,743,Oklahoma Natural Gas - Southern Oklahoma Development Association
+5800 Mesa Dr,Houston,TX,77028,713-635-5361,a,a,1,1,29.816442,-95.25631,60119,Questar Fueling - Houston
+201 Latta Rd,Ada,OK,74820,580-310-0900,a,a,1,1,34.7736949,-96.6969883,35419,Ada Travel Stop West
+2109 McCue Rd,Houston,TX,77056,713-296-7479,a,a,1,1,29.744353,-95.46424,51035,Apache Houston
+201 1st St,Kenosha,WI,53403,920-243-5717,a,a,1,1,42.6677892,-87.8092056,1192,US Oil
+501 W Blackstock Rd,Spartanburg,SC,29301,864-286-7911,a,a,1,1,34.946191,-81.996885,51479,Piedmont Natural Gas - Spartanburg - Public Access
+734 S Main St,Cedar City,UT,84720,435-586-1344,a,a,1,1,37.664649,-113.066654,573,KB Express
+4500 Norris Canyon Rd,San Ramon,CA,94583,800-920-1166,a,a,1,1,37.7726049,-121.9697814,797,Trillium CNG - United Parcel Service - San Ramon
+600 W Church St,Newark,OH,43055,740-327-7255  740-404-2123,a,a,1,1,40.058031,-82.423622,33133,CNG Auto Sales
+1700 S. Mount Prospect Rd,Des Plains,IL,60018,847-768-0500,a,a,1,1,42.017847,-87.921507,19143,Gas Technology Institute
+1830 S West Ave,Waukesha,WI,53186,920-243-5717,a,a,1,1,42.9820769,-88.2382219,1191,US Oil
+2221 Pipeline Rd,Cleburne,TX,76033,,a,a,1,1,32.382912,-97.397639,52212,Peake Fuel Solutions
+8968 S Choctaw Dr,Baton Rouge,LA,70815,800-349-0170,a,a,1,1,30.471711,-91.0848119,296,Lavigne Oil Co - Choctaw
+600 N 3700 W,Salt Lake City,UT,84116,801-324-3900,a,a,1,1,40.77812,-111.98,23213,Salt Lake City International Airport - Public Access
+3989 S K St,Tulare,CA,93274,559-684-4318  559-684-4330,a,a,1,1,36.168941,-119.336803,7041,Clean Energy - City of Tulare
+121 Houston Rd,Troutman,NC,28166,877-776-2427,a,a,1,1,35.680561,-80.858247,48007,PSNC Energy
+5710 Daugherty Ave,Laredo,TX,78041,866-278-3674  562-493-2804,a,a,1,1,27.5500037,-99.47217,35139,City of Laredo - Public Access
+2421 S 1st Pl,Broken Arrow,OK,74012,888-609-2410  800-664-5463,a,a,1,1,36.0230553,-95.7878643,7108,Oklahoma Natural Gas - Broken Arrow Service Center
+1460 N 1750 W,Springville,UT,84663,801-489-3622,a,a,1,1,40.187357,-111.640443,23211,Flying J Travel Plaza - Springville
+1490 S County Rd 700 W,Frankfort,IN,46041,877-264-3835,a,a,1,1,40.265069,-86.637969,51470,Northville NG Fuels
+4508 N Big Spring St,Midland,TX,79705,713-296-7479,a,a,1,1,32.042664,-102.084597,50651,Apache Midland - Stripes #207
+4600 Mark IV Pkwy,Fort Worth,TX,76161,562-493-2804,a,a,1,1,32.82677,-97.317765,1396,Clean Energy - Fort Worth
+1731 E Division St,Arlington,TX,76011,562-493-2804,a,a,1,1,32.74199,-97.0842,37119,Clean Energy -  Valero Cowboys Stadium
+1028 N Preston,Davenport,OK,74026,888-609-2410,a,a,1,1,35.7127463,-96.7663455,12784,Oklahoma Natural Gas - CNG Maintenance Facility
+3530 E Foothill Blvd,Pasadena,CA,91107,562-493-2804,a,a,1,1,34.149944,-118.077452,26312,Clean Energy - Pasadena Southern California Gas Co
+13600 N Western Ave,Oklahoma City,OK,73114,405-752-4597,a,a,1,1,35.6078688,-97.5315027,50268,OnCue Express #112 - C-Store
+555 Wordin Ave,Bridgeport,CT,6605,203-339-3210,a,a,1,1,41.1644693,-73.2070033,36575,Enviro Express Natural Gas
+1375 N Main St,Richfield,UT,84701,435-896-8352,a,a,1,1,38.7841111,-112.0843094,569,Chevron
+14270 Schaefer St,Detroit,MI,48227,888-383-5648,a,a,1,1,42.392497,-83.176053,12847,DTE Energy - Coolidge
+1400 N 900 E,Logan,UT,84341,801-538-3440  800-678-3440,a,a,1,1,41.7501162,-111.8112601,23215,Utah State University
+601 S Main St Ext,Punxsutawney,PA,15767,814-590-4498,a,a,1,1,40.919381,-78.983944,41176,"""O"" Ring CNG Fuels Systems - Innovative Entrepreneurs Inc"
+4600 S Redwood Rd,Salt Lake City,UT,84123,801-538-3440,a,a,1,1,40.6712112,-111.9403845,47302,Salt Lake Community College
+555 N Prospect St,Porterville,CA,93257,559-791-7867,a,a,1,1,36.0758929,-119.0440579,35075,City of Porterville - Public Access
+915 E Saint George Blvd,Saint George,UT,84770,435-656-1350,a,a,1,1,37.110213,-113.563803,575,Shell
+1731 Kings Hwy,Shreveport,LA,71103,318-673-6300,a,a,1,1,32.479998,-93.766015,42586,Shreveport Trash Trucks - Public Access
+530 W Old Mill Ln,Kaysville,UT,84037,801-324-3900  801-324-3651,a,a,1,1,41.035831,-111.949041,42600,Questar Gas - Kaysville
+1920 S Eastern Ave,Moore,OK,73160,405-793-1328,a,a,1,1,35.3208639,-97.4767258,48499,7-Eleven
+5016 Wellington Ave,Ventnor City,NJ,8406,562-493-2804  609-344-8642,a,a,1,1,39.3531397,-74.47712,36309,Clean Energy - Atlantic City Jitney Association
+7953 S Airport Rd,West Jordan,UT,84088,801-280-6687,a,a,1,1,40.607229,-111.996273,23212,Copperhills Phillips 66
+122 N Washington St,Afton,WY,83110,307-884-8182,a,a,1,1,42.7310456,-110.9332701,50282,Star Valley Gas
+10 Spring St,Charleston,WV,25302,877-742-4476,a,a,1,1,38.3561827,-81.6270841,53646,IGS CNG Services
+86 Granby St,Bloomfield,CT,6002,860-243-0138,a,a,1,1,41.8109547,-72.708565,36296,Clean Energy - Yellow Cab
+1441 9th Ave NE,Hickory,NC,28601,828-323-7573,a,a,1,1,35.7396322,-81.3099313,21107,City of Hickory
+6797 Highway 175,Frierson,LA,71027,318-429-0271,a,a,1,1,32.2140539,-93.7057524,42583,Relay Station - Red River CNG
+4637 Florida Blvd,Baton Rouge,LA,70806,800-349-0170,a,a,1,1,30.4507218,-91.1425396,295,Lavigne Oil Co - Florida
+2990 Baseline Rd,Boulder,CO,80303,562-493-2804,a,a,1,1,39.9997566,-105.2534527,650,Clean Energy - Amoco
+8000 Denton Dr,Dallas,TX,75235,562-493-2804,a,a,1,1,32.8394449,-96.8538004,26655,Clean Energy - Love Field Airport
+857 Iona Ave,Lemoore,CA,93245,559-924-6734,a,a,1,1,36.2837197,-119.793621,49541,Lemoore CNG
+149 SW Kenyon St,Seattle,WA,98108,800-950-3835,a,a,1,1,47.531275,-122.336961,34206,Clean N' Green - Waste Management
+1600 W Commonwealth Ave,Fullerton,CA,92833,714-738-5333,a,a,1,1,33.869787,-117.952097,50645,City of Fullerton - EcoFuelCNG
+10095 Highway 191,Pinedale,WY,82941,307-367-2139 x2,a,a,1,1,42.9383457,-110.082227,49551,Sublette School District #1
+1 Scott Way,Philadelphia,PA,19113,562-493-2804,a,a,1,1,39.872606,-75.260831,48911,Clean Energy - Philadelphia International Airport - Wally Park
+2210 S Colorado Blvd,Denver,CO,80222,562-493-2804,a,a,1,1,39.6764352,-104.940481,644,Clean Energy - Valero #4079
+187 S Pershing Ave,San Bernardino,CA,92408,909-384-5220,a,a,1,1,34.0983685,-117.2884613,32669,City of San Bernardino
+943 SE Frontage Rd,Sturtevant,WI,53177,262-886-5441,a,a,1,1,42.7231601,-87.951114,44851,Kwik Trip #686
+755 W Capitol Dr,San Pedro,CA,90731,213-244-5681,a,a,1,1,33.7582189,-118.294021,1002,SoCalGas - San Pedro Base
+36001 Date Palm Dr,Cathedral City,CA,92234,562-493-2804,a,a,1,1,33.786462,-116.45864,26306,Clean Energy - ARCO Cathedral City
+507 S Main St,Frederick,OK,73542,888-609-2410,a,a,1,1,34.3849715,-99.0170426,22719,Tillman's Producers Co-op Fueling Station
+3965 Occidental Rd,Santa Rosa,CA,95401,800-684-4648,a,a,1,1,38.4286463,-122.7669412,834,PG&E Santa Rosa Service Center
+701 2nd St NW,Auburn,WA,98001,253-939-3570,a,a,1,1,47.3092784,-122.2373066,50276,Waste Management - South Sound
+2400 S Washburn St,Oshkosh,WI,54904,920-233-4080,a,a,1,1,43.9901521,-88.5859546,48917,Kwik Trip #457
+1 N Main St,Evansville,IN,47711,812-491-4737,a,a,1,1,37.9788993,-87.5634029,33426,Vectren Energy Delivery Eco-Fuel Center
+131 Aaronson Dr,Baltimore,MD,21240,562-493-2804,a,a,1,1,39.1872,-76.6559,48905,Clean Energy - BWI Airport - Maryland Department of General Services - Public Access
+2805 SE 32nd Ave,Ocala,FL,34471,352-390-8039,a,a,1,1,29.1568425,-82.092366,52994,Reliance Alternative Fuel
+3025 W Ruby Ave,Milwaukee,WI,53209,414-286-2282,a,a,1,1,43.0989845,-87.9510647,42609,City of Milwaukee - Ruby Avenue
+3333 Losee Rd,North Las Vegas,NV,89030,702-676-1500,a,a,1,1,36.220403,-115.125585,1083,Clean Energy - Regional Transportation Commission of Southern Nevada
+2616 W Border St,Muskogee,OK,74401,888-609-2410  800-664-5463,a,a,1,1,35.740814,-95.397017,765,Oklahoma Natural Gas - Muskogee Service Center
+Harr Ave & Chiles Ave,Fort Carson,CO,80902,800-366-4602,a,a,1,1,38.753882,-104.797307,12775,Clean Energy - Fort Carson
+3035 Tobacco Rd,Hephzibah,GA,30815,706-829-1273,a,a,1,1,33.392931,-82.11295,51876,City of Augusta
+14640 Pardee Rd,Taylor,MI,48180,734-374-4229,a,a,1,1,42.198929,-83.258787,22715,Meijer Gas #35
+100 Magnolia Ave,Long Beach,CA,90802,562-493-2804,a,a,1,1,33.768447,-118.197824,30627,Clean Energy - Downtown Long Beach
+3351 Thomas Rd,Santa Clara,CA,95054,800-920-1166,a,a,1,1,37.381823,-121.9577667,27978,Trillium CNG - Specialty Solid Waste & Recycling
+110 W 900 S,Salt Lake City,UT,84101,801-389-6233,a,a,1,1,40.750157,-111.894443,52696,CNG America
+1993 Rancho Conejo Blvd,Thousand Oaks,CA,91320,800-920-1166  805-449-2499,a,a,1,1,34.2063189,-118.9357567,20976,Trillium CNG - City of Thousand Oaks
+1628 James P Rogers Dr,Valdosta,GA,31601,229-242-2200,a,a,1,1,30.7972,-83.2746,49282,Langdale Fuel
+3210 S Maple Ave,Santa Ana,CA,92707,562-493-2804,a,a,1,1,33.703865,-117.863761,30628,Clean Energy - Santa Ana
+8101 S Rosemead Blvd,Pico Rivera,CA,90660,213-244-5681,a,a,1,1,33.9680279,-118.1066058,1000,SoCalGas - Pico Rivera Base
+3400 E Tahquitz Canyon Way,Palm Springs,CA,92262,562-493-2804,a,a,1,1,33.819242,-116.509117,1380,Clean Energy - Palm Springs International Airport
+10050 Naples St NE,Blaine,MN,55449,800-950-3835,a,a,1,1,45.152304,-93.186247,43633,Clean N' Green - Waste Management
+2300 Lowery St,Winston-Salem,NC,27101,864-286-7911,a,a,1,1,36.093837,-80.209155,50048,Piedmont Natural Gas - Winston-Salem
+1004 S La Cienega Blvd,Los Angeles,CA,90035,562-493-2804,a,a,1,1,34.059388,-118.375858,34474,Clean Energy - La Cienega Station
+3729 Smith Ave,Everett,WA,92801,800-663-4555  888-732-6487,a,a,1,1,47.9678081,-122.1968047,33321,Clean Energy - Everett Station
+2425 E Buckeye Rd,Phoenix,AZ,85034,562-493-2804,a,a,1,1,33.435582,-112.032864,27026,Clean Energy - Phoenix Sky Harbor Airport - Rental Car Center
+741 Charles Young Dr,Los Angeles,CA,90095,562-493-2804,a,a,1,1,34.067611,-118.447872,30620,Clean Energy - UCLA
+4821 E 66th St N,Tulsa,OK,74117,888-609-2410  918-640-1591,a,a,1,1,36.249583,-95.922592,32670,Oklahoma Natural Gas - Tulsa North Service Center
+7855 Earhart Rd,Oakland,CA,94621,562-493-2804,a,a,1,1,37.746211,-122.188413,26554,Clean Energy - Oakland International Airport
+856 N 600 E,Fair Oaks,IN,47943,312-300-6700,a,a,1,1,41.00993,-87.2761,47276,AMP Americas - Fair Oaks Dairy
+1919 S State College Blvd,Anaheim,CA,92806,800-920-1166,a,a,1,1,33.80086,-117.89,1354,Trillium CNG - Southern California Gas Co - Anaheim
+340 Whitehall St SW,Atlanta,GA,30303,562-493-2804,a,a,1,1,33.746059,-84.398865,42,Clean Energy - PS Energy - Atlanta
+4400 O'Day Ave NE,Saint Michael,MN,55376,763-497-2447,a,a,1,1,45.217558,-93.598394,52490,Kwik Trip #681
+925 N Main St,Lexington,NC,27292,336-242-2250,a,a,1,1,35.831262,-80.2439631,40081,Davidson County
+100 N Sandstone Ct,Barstow,CA,92311,888-792-0691,a,a,1,1,34.886448,-117.079417,28523,City of Barstow
+523 Perry Pkwy,Perry,GA,31069,800-920-1166,a,a,1,1,32.492463,-83.740425,52202,AMP Trillium - Perry Parkway - Perry
+615 7th Ave,Santa Cruz,CA,95062,800-684-4648,a,a,1,1,36.969267,-121.999295,798,PG&E Santa Cruz Service Center
+7485 Kickapoo Tr,Yucca Valley,CA,92284,562-493-2804,a,a,1,1,34.117016,-116.457548,26314,Clean Energy - Yucca Valley
+120 N Macneil St,San Fernando,CA,91340,818-898-1293,a,a,1,1,34.2836866,-118.4389656,33425,City of San Fernando
+5339 Harding Ave,Plover,WI,54467,715-344-7252,a,a,1,1,44.4268987,-89.5160247,53781,Kwik Trip #202
+1050 Swedesford Rd,Berwyn,PA,19312,610-648-7809,a,a,1,1,40.0592201,-75.4620838,778,PECO Energy - Berwyn Station
+3008 Chrisler Ave,Rotterdam,NY,12303,866-278-3674  518-393-0863,a,a,1,1,42.7832058,-73.9291613,28764,Clean Energy - New York State Department of Transportation
+10641 Almond Ave,Fontana,CA,92337,281-647-8900,a,a,1,1,34.060593,-117.49208,52682,Ryder Systems Inc
+4424 Amelia Earhart Dr,Oklahoma City,OK,73159,303-322-4600,a,a,1,1,35.406035,-97.600483,33898,Clean Energy - Will Rogers World Airport
+9050 Elkmont Dr,Elk Grove,CA,95624,562-593-2804,a,a,1,1,38.38145065,-121.364357,41171,Clean Energy - City of Elk Grove
+Grand Central Pkwy,Flushing,NY,11371,718-803-1418,a,a,1,1,40.774739,-73.872372,18904,Clean Energy - BP LaGuardia Airport
+2400 E Spring St,Long Beach,CA,90806,562-493-2804,a,a,1,1,33.810964,-118.163013,30626,Clean Energy - Long Beach Airport
+10010 City Pond Rd,Covington,GA,30014,770-399-7800,a,a,1,1,33.6184832,-83.8492312,53627,Covington Green Fuels Facility
+1605 Highway 2 S,Wilburton,OK,74578,405-372-3579,a,a,1,1,34.8987849,-95.3229538,36699,OnCue Express #355
+2010 N Park Ave,Park City,UT,84060,435-649-3689,a,a,1,1,40.662426,-111.511947,520,Top Stop
+1017 Airline Dr,Kenner,LA,70062,562-493-2804,a,a,1,1,29.9822851,-90.2570131,42585,Clean Energy - New Orleans International Airport
+3103 N Industrial Way,Castle Rock,CO,80104,720-941-2791,a,a,1,1,39.406906,-104.871667,633,Ward - Castle Rock
+2000 Post Rd,Warwick,RI,2886,401-737-8222,a,a,1,1,41.7259,-71.4359,30374,AVSG - TF Green Airport
+4419 Main St,Arkoma,OK,74901,405-372-3579,a,a,1,1,35.3214,-94.4414,36586,OnCue Express #350
+1100 Albany Ave,Atlantic City,NJ,8401,800-366-4602  562-493-2804,a,a,1,1,39.364482,-74.471894,48008,Clean Energy - City of Atlantic City
+1444 N Kickapoo St,Shawnee,OK,74801,888-609-2410  800-664-5463,a,a,1,1,35.3461608,-96.9299572,768,Oklahoma Natural Gas - Shawnee Service Center
+7800 Moss Ave,California City,CA,93505,661-824-4250,a,a,1,1,35.1015424,-117.9894867,34322,City of California City
+116 N 8th St,Deming,NM,88030,575-494-3037  575-546-8848,a,a,1,1,32.2676654,-107.768756,53632,City of Deming
+2890 N Harvey Mitchell Pkwy,Bryan,TX,77807,888-560-5556  979-778-9345,a,a,1,1,30.7223978,-96.4273347,50052,CNG 4 America - Bryan
+219 N Quarantina St,Santa Barbara,CA,93103,213-244-5681,a,a,1,1,34.4215753,-119.683965,12839,SoCalGas - Santa Barbara Base
+1610 E Washington St,West Bend,WI,53095,262-335-1511,a,a,1,1,43.4272226,-88.1982813,18944,East Side Mobil
+4760 Old Post Rd,Ogden,UT,84403,801-324-3900,a,a,1,1,41.176906,-111.9477613,40319,Weber State University - Questar Gas
+16690 D St,Victorville,CA,92392,760-241-6365,a,a,1,1,34.539336,-117.296242,18943,City of Victorville
+6650 State Rd 38 E,Lafayette,IN,47905,260-229-2323,a,a,1,1,40.3740679,-86.7785995,52488,CNG Fuel Inc - Lafayette
+1060 S Highway 99,Fillmore,UT,84631,801-324-5987,a,a,1,1,38.9480413,-112.3472722,566,Questar Gas - Chevron
+1131 Elmira St,Sayre,PA,18840,,a,a,1,1,41.9664891,-76.5338873,53006,Dandy Mini-Mart
+4990 Paradise Rd,Las Vegas,NV,89119,702-676-1500,a,a,1,1,36.099349,-115.149025,41173,Clean Energy - McCarran International Airport
+320 Williams St,Hendersonville,NC,28792,828-697-4809,a,a,1,1,35.3156959,-82.4531288,36582,Henderson County
+790 N McDonnell Rd,San Francisco,CA,94128,562-493-2804,a,a,1,1,37.63239,-122.399068,25483,Clean Energy - San Francisco Airport
+4285 W 1385 S,Salt Lake City,UT,84104,800-442-6687  801-521-0360,a,a,1,1,40.7394109,-111.992133,35699,Semi-Service
+2101 SW Mustang Dr,Andrews,TX,79714,713-296-7479,a,a,1,1,32.3059331,-102.5442911,46339,Apache Andrews
+228 Allegheny Blvd,Brookville,PA,15825,814-590-4498,a,a,1,1,41.167067,-79.097072,51882,"""O"" Ring Fueling Systems"
+1301 W 24th St,Cheyenne,WY,82001,307-778-2150  562-493-2804,a,a,1,1,41.134377,-104.833166,215,Clean Energy - Cheyenne Light Fuel & Power - Public Access
+16038 Highway 65 S,Damascus,AR,72039,501-548-6500,a,a,1,1,35.385825,-92.389369,38654,Southwestern Energy - Damascus
+Bayshore Hwy,San Francisco,CA,94128,800-920-1166,a,a,1,1,37.61606,-122.384,20928,Trillium CNG - San Francisco International Airport - South View Lot
+85 Old Northport Rd,Kings Park,NY,11754,603-224-6582  631-360-7514,a,a,1,1,40.8731316,-73.2734863,36779,Clean Energy - Town of Smithtown
+550 Milam Dr,Beaumont,TX,77701,800-920-1166,a,a,1,1,30.0771887,-94.0959347,30623,Trillium CNG - City of Beaumont
+250 Five Points Rd,Dudley,NC,28333,919-731-7338,a,a,1,1,35.329672,-78.0407117,47282,Piedmont Natural Gas - Goldsboro - Public Access
+128 N Briery Rd,Irving,TX,75061,562-493-2804,a,a,1,1,32.817883,-96.988716,453,Clean Energy - City of Irving
+W229 N2086 Redford Blvd,Waukesha,WI,53186,262-446-2032,a,a,1,1,43.0586,-88.2042,49293,Kwik Trip #396
+Route 128 S,Newton,MA,2459,617-242-8755,a,a,1,1,42.330231,-71.254708,18895,Alternative Vehicle Service Group - Newton
+1800 Maxwell Rd,Chula Vista,CA,91911,562-493-2804,a,a,1,1,32.59793,-117.019,42473,Clean Energy - Chula Vista Public Works Yard
+8652 S 4000 W,West Jordan,UT,84088,800-950-3835,a,a,1,1,40.5937017,-111.9867704,43686,Clean N' Green - Waste Management
+6722 Pine Forest Rd,Pensacola,FL,32526,850-324-1851,a,a,1,1,30.4771082,-87.306742,50259,City of Pensacola - Pine Forest - Public Station
+533 High Plain St,Walpole,MA,2081,617-242-8755,a,a,1,1,42.139911,-71.21695,30355,Alternative Vehicle Service Group - Walpole
+2100 S Waldron Rd,Fort Smith,AR,72903,479-783-3188,a,a,1,1,35.3628559,-94.3728829,73,Arkansas Oklahoma Gas Corp - Public Access
+120 Cedar Springs Rd,Fairview,OK,73737,580-227-0999  580-227-0322,a,a,1,1,36.261003,-98.489097,48497,L&S Fuels LLC
+4220 County Rd J,Sheboygan,WI,53083,920-803-2078,a,a,1,1,43.7899719,-87.7630927,49292,Kwik Trip #679
+7800 Colonel H Weir Cook Memorial Dr,Indianapolis,IN,46241,877-264-3835,a,a,1,1,39.7146945,-86.2980639,12759,Northville NG Fuels
+3034 E Corona Rd,Tucson,AZ,85756,562-493-2804,a,a,1,1,32.123063,-110.927472,25875,Clean Energy - Tucson International Airport
+853 N Woodard Ave,Tahlequah,OK,74464,918-456-5621  918-456-3591,a,a,1,1,35.924947,-95.000656,40878,NOPFA - Tahlequah
+175 E Old Country Rd,Hicksville,NY,11801,516-545-4148,a,a,1,1,40.76616,-73.512375,449,Clean Energy - National Grid Hicksville Headquarters
+5430 S Bay Rd,North Syracuse,NY,13212,866-278-3674  315-458-1910,a,a,1,1,43.1194279,-76.1421128,32786,Clean Energy - New York State Department of Transportation
+26571 Junipero Serra Rd,San Juan Capistrano,CA,92675,949-493-3515  562-493-2804,a,a,1,1,33.520375,-117.667327,48013,Clean Energy - San Juan Capistrano - Shell
+244 Chappells Dairy Rd,Somerset,KY,42503,606-679-0509,a,a,1,1,37.105838,-84.6286587,47463,City of Somerset
+501 W 70th St,Shreveport,LA,71106,318-683-3901,a,a,1,1,32.441468,-93.765557,53754,Freedom Fuels
+5500 SE 29th St,Del City,OK,73115,405-672-3420,a,a,1,1,35.4346492,-97.424734,42591,OnCue Express #107
+439 N Cain St,Visalia,CA,93292,800-920-1166,a,a,1,1,36.3346178,-119.2742548,27975,Trillium CNG - City of Visalia
+800 Gaston Rd,Gastonia,NC,28056,704-810-3282,a,a,1,1,35.251709,-81.0946589,25673,PSNC Energy
+2267 W Main St,Tremonton,UT,84337,435-257-3530,a,a,1,1,41.7107821,-112.1995043,49290,CNG America - RJ Fuel Stop
+1510 Chester Pike,Eddystone,PA,19022,610-648-7809,a,a,1,1,39.8638603,-75.3370423,776,PECO Energy - Baldwin Service Building
+1701 Stewart St,Santa Monica,CA,90404,562-493-2804,a,a,1,1,34.031049,-118.466894,995,Clean Energy - Santa Monica
+1350 E 700 S,Clearfield,UT,84015,801-773-1640,a,a,1,1,41.103135,-112.000344,23209,CNG America - JP's Chevron
+7721A Washington Ave,Houston,TX,77007,562-493-2804,a,a,1,1,29.779156,-95.433938,72,Clean Energy - Texas Department of Transportation
+2025 Kwik Trip Way,La Crosse,WI,54603,608-781-8988,a,a,1,1,43.8519994,-91.2268897,44848,Kwik Trip #870
+19499 NW 2nd Ave,Miami Gardens,FL,33169,954-667-9119,a,a,1,1,25.953453,-80.2054702,52483,CNGas
+3330 W Memorial Rd,Oklahoma City,OK,73120,405-748-4277,a,a,1,1,35.6086477,-97.5766107,36593,RS Fuel - Phillips 66
+3710 Oklahoma Ave,Woodward,OK,73801,580-256-2650,a,a,1,1,36.4335504,-99.4289513,47994,Hutch's #113
+4155 Walden Ave,Lancaster,NY,14086,866-264-6220,a,a,1,1,42.920836,-78.627853,60157,American Natural Gas - Lancaster
+2521 Pacific Hwy,San Diego,CA,92101,562-493-2804,a,a,1,1,32.729871,-117.173583,1226,Clean Energy - Lindbergh Field Shell
+705 S Union Ave,Bakersfield,CA,93307,661-852-5800,a,a,1,1,35.3481149,-119.0029454,32513,Kern County Superintendent of Schools
+517 S Weber,Stratford,WI,54484,715-687-3368,a,a,1,1,44.7958336,-90.0791491,44850,Kulp Energy Solutions
+1670 E 1st St,Pomona,CA,91763,562-493-2804,a,a,1,1,34.059287,-117.722129,30833,Clean Energy - Pomona Foothill Transit
+2506 Jackson Pk,Columbus,OH,43223,216-986-9999,a,a,1,1,39.9033293,-83.0246531,41684,Quasar
+21865 E Copley Dr,Diamond Bar,CA,91765,800-920-1166,a,a,1,1,34.001326,-117.830482,1013,Trillium CNG - South Coast Air Quality Management District
+4040 West Ln,Stockton,CA,95204,800-684-4648,a,a,1,1,37.9902936,-121.2856386,832,PG&E Stockton Service Center
+112 Verbena St,Charlotte,NC,28217,704-587-3128,a,a,1,1,35.1836144,-80.8798179,34315,Piedmont Natural Gas - Charlotte - Public Access Front
+5640 Peck Rd,Arcadia,CA,91006,562-493-2804,a,a,1,1,34.105711,-118.007122,48014,Clean Energy - Arcadia Foothill Transit - Public Access
+1735 S Turner Ave,Ontario,CA,91761,909-827-9944,a,a,1,1,34.0355999,-117.5846428,7037,United Parcel Service
+3898 94th St SW,Lakewood,WA,98499,800-663-4555  888-732-6487,a,a,1,1,47.1721285,-122.4861896,27835,Clean Energy - Pierce Transit
+2700 Cleveland Ave,Marinette,WI,54143,800-490-4915,a,a,1,1,45.0852977,-87.6469194,47238,US Oil - Exxon
+27985 Diaz Rd,Temecula,CA,92590,951-737-9866  562-493-2804,a,a,1,1,33.505146,-117.159346,33888,Clean Energy - Downs Truckstop
+6762 Stanton Ave,Buena Park,CA,90621,714-522-3577,a,a,1,1,33.86221,-117.994,48896,EDCO Disposal - Buena Park
+4600 Irving Blvd,Dallas,TX,75247,562-493-2804,a,a,1,1,32.8081475,-96.8972941,38487,Clean Energy - Dillon Transport

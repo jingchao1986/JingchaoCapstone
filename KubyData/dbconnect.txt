@@ -1,0 +1,21 @@
+
+import psycopg2
+import sys
+
+###Set up connection
+def dbconnect():
+    con = None
+
+    try:
+         
+        con = psycopg2.connect(database='gph573', user='postgres', password="xxxx") 
+        cur = con.cursor()
+        cur.execute('SELECT version()')          
+        ver = cur.fetchone()
+        print ver    
+        
+
+    except psycopg2.DatabaseError, e:
+        print 'Error %s' % e    
+        sys.exit(1)
+    return con, cur
