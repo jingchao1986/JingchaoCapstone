@@ -1,6 +1,6 @@
 .lightbox {
 
-    position:fixed;
+    position: fixed;
 
     top:0;
 
@@ -80,7 +80,7 @@ html, body {
 }
 
 #map-canvas, #map_canvas {
-  height: 100%;
+  height: 600px;
 }
 
 @media print {
@@ -107,3 +107,8 @@ opacity:.90;
 left:0;
 
 }
+#inputdiv{
+font-size: 14px;
+
+}
+
