@@ -14,6 +14,9 @@ SELECT h2stations.id id1, h2stationsCopy.id id2, st_distance(h2stations.geog, h2
 CREATE TABLE h2pairsDistinct AS
 SELECT DISTINCT ON (h2pairs.st_distance) id1, id2 FROM h2pairs WHERE id1 != id2;
 
+#alternative way:
+SELECT h2stations.id id1, h2stationsCopy.id id2, st_distance(h2stations.geog, h2stationsCopy.geog) FROM h2stations, h2stationsCopy WHERE st_dwithin(h2stations.geog, h2stationsCopy.geog, 643738) and h2stations.id < h2stationscopy.id;
+
 #join the lat lon in h2stations to the id pairs
 
 CREATE TABLE leftjoin1 AS SELECT h2pairsdistinct.id1, h2pairsdistinct.id2,h2stations.lat, h2stations.lon FROM h2pairsdistinct LEFT JOIN h2stations ON h2stations.id = h2pairsdistinct.id1;
