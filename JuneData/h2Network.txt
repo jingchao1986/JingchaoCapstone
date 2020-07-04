@@ -1,12 +1,17 @@
 
 # create distinct id pairs of all H2 stations.
 
-CREATE TABLE h2stations(id serial NOT NULL, name VARCHAR(100),address VARCHAR(100),city VARCHAR(100),state VARCHAR(50),zip VARCHAR(50), lat double precision, lon double precision);
+CREATE TABLE h2stations(name VARCHAR(100),address VARCHAR(100),city VARCHAR(100),zip VARCHAR(50), lat double precision, lon double precision, id int);
 
-\COPY h2stations(name, address, city, state, zip,lat,lon) FROM '/Users/user/Documents/GIS/Capstone/Junedata/h2_stations.csv' DELIMITERS ',' CSV HEADER;
+afv=# CREATE EXTENSION postgis;
+
+
+\COPY h2stations(name, address, city,zip,lat,lon,id) FROM '/Users/user/Documents/GIS/Capstone/Junedata/h2stations.csv' DELIMITERS ',' CSV HEADER;
 
 ALTER TABLE h2stations ADD COLUMN geog geography(POINT,4326);
 UPDATE h2stations SET geog = ST_GeogFromText('SRID=4326;POINT(' || lon || ' ' || lat || ')');
+
+CREATE Table h2stationsCopy AS SELECT * FROM h2stations;
 
 CREATE TABLE h2pairs AS 
 SELECT h2stations.id id1, h2stationsCopy.id id2, st_distance(h2stations.geog, h2stationsCopy.geog) FROM h2stations, h2stationsCopy WHERE st_dwithin(h2stations.geog, h2stationsCopy.geog, 643738);
@@ -16,6 +21,7 @@ SELECT DISTINCT ON (h2pairs.st_distance) id1, id2 FROM h2pairs WHERE id1 != id2;
 
 #alternative way:
 
+CREATE TABLE h2pairsDistinct AS
 SELECT h2stations.id id1, h2stationsCopy.id id2, st_distance(h2stations.geog, h2stationsCopy.geog) FROM h2stations, h2stationsCopy WHERE st_dwithin(h2stations.geog, h2stationsCopy.geog, 643738) and h2stations.id < h2stationscopy.id;
 
 #join the lat lon in h2stations to the id pairs
