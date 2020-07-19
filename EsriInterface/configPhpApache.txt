@@ -1,0 +1,18 @@
+Install and configuration of the php and apache server
+
+~sudo nano /etc/apache2/httpd.conf
+
+remove the “#” tag before the “LoadModule PHP7_module”
+
+in the <IfModule dir_module> section, in the “DirectoryIndex” line, add an index. Php, before the index. Html, so the apache server will choose php file before it chooses the html
+
+ctrl+O+return, Ctrl+X to save the change and close the editor.
+
+
+~sudo apachectl restart
+
+The put the project files in the document folder
+
+/Library/WebServer/Documents
+
+Then the project can run on your local Mac.

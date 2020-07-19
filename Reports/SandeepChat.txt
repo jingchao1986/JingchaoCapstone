@@ -1,0 +1,20 @@
+15:06:51	 From Sandeep Sabu : var xml = data.getElementsByTagName("data");
+15:21:15	 From Sandeep Sabu : console.log(xml[0].outerHTML);
+15:51:33	 From Sandeep Sabu : Jingchao was having an issue with tool returning error message, "No feasible paths."
+15:51:43	 From Sandeep Sabu : "No feasible path."
+15:51:59	 From Sandeep Sabu : Sandeep started looking through the code.
+15:52:26	 From Sandeep Sabu : Started lots of "console.log" statements to get an idea of what was going in in the code
+15:52:51	 From Sandeep Sabu : Eventually Sandeep realized we were making changes to code but we weren't doing the hard refresh
+15:53:16	 From Sandeep Sabu : So then we started doing hard refresh - Command + R or right click on refresh button
+15:53:28	 From Sandeep Sabu : Then we started seeing our console log statements.
+15:54:24	 From Sandeep Sabu : In terms of the real debugging: the original downloadURL function was using 'Microsoft.XMLHTTP' which wasn't compatible with Chrome
+15:54:39	 From Sandeep Sabu : We googled a bit
+15:54:57	 From Sandeep Sabu : We brought in the jQuery library with the CDN in the script tag of index.html
+15:55:17	 From Sandeep Sabu : Then we re-wrote the downloadURL function to use jQuery AJAX.
+15:55:43	 From Sandeep Sabu : Asynchronous JavaScript XML
+16:00:42	 From Sandeep Sabu : AJAX is a way to make a request to a database and receive a response from that database so that the rest of the JavaScript code does not get interrupted when it is being compiled (or run) in the browser.
+16:01:26	 From Sandeep Sabu : part of re-writing download URL with jQuery AJAX was re-configuring the data that was being sent to API / database endpoint.
+16:01:55	 From Sandeep Sabu : data was no longer sent through URL query parameters, rather it was sent in data object that was appended to jquery AJAX body
+16:02:28	 From Sandeep Sabu : once we got a response from database endpoint, we console logged that response.
+16:02:53	 From Sandeep Sabu : But after that we sorted through some XML retrieval methods in the callback tunction
+16:05:12	 From Sandeep Sabu : SInce we modified download url 1 with jquery AJAX we were getting the xml directly and we didn't need the "reponseXML" methods that were used previously.  therefore we modified the callback function in download URL 1 to simply retrieve XML directly from ther esponse

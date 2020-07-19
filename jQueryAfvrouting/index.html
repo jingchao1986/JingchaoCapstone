@@ -1,18 +1,13 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html>
     <head>
-        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
         <meta charset="utf-8">
         <title>AFV Route Planning</title>
-        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous"/>
-        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
         <link href="style2.css" rel="stylesheet">
-        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
         <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCClIjuGwWvzGpuK81lyilQUc2iX8cDy1w&sensor=false"></script>
-        <script type="text/javascript" src="downloadxml.js"></script>
-        <script src="index.js"></script>
-        
+        <!--<script type="text/javascript" src="downloadxml.js"></script> -->
         <script>
             var directionDisplay;
             var directionsService = new google.maps.DirectionsService();
@@ -23,11 +18,12 @@
             var range;
             var start;
             var end;
-            function downloadUrl(url,callback) {
+            function downloadUrl(url, callback) {
+                //console.log('in download url', url);
              var request = window.ActiveXObject ?
                  new ActiveXObject('Microsoft.XMLHTTP') :
                  new XMLHttpRequest;
-
+             //console.log(request);
              request.onreadystatechange = function() {
                if (request.readyState == 4) {
                  request.onreadystatechange = doNothing;
@@ -36,10 +32,41 @@
              };
 
                 request.open('GET', url, true);
-                request.send(null);
+                request.send(null); 
+                
+
+                //console.log("in download url", url);
+
+              /*  $.ajax({
+                url: url,
+                }).done(function(data) {
+                  console.log(data);
+                });
+                */
+
                }
 
-               
+               function downloadUrl1(url, data, callback){
+                   //console.log("in downlod 1 url", url);
+                    
+                    $.ajax({
+                    url: url,
+                    data: {
+                        "from":data.from,
+                        "to": data.to,
+                        "range":data.range,
+                        "init": data.init,
+                        "round": data.round,
+                        "fuel": data.fuel
+                    },
+                    type:"GET",
+                    success: function(response){
+                    //console.log(response);
+                    callback(response);
+                    }
+                    });
+
+               }
                
                 
             function initialize() {
@@ -78,6 +105,7 @@
            var hmarkers=[];
            var cmarkers=[];
                downloadUrl("dump.xml", function(data) {
+                   //console.log(data);
                     var xml = data.responseXML;
                     var markers = xml.documentElement.getElementsByTagName("row");
                     for (var i = 0; i < markers.length; i++) {
@@ -115,12 +143,12 @@
                 
                 end = document.getElementById('end').value;
                 codeSAddress(start);
-                console.log("got start point");
-                console.log(start);
+                //console.log("got start point");
+                //console.log(start);
 
                 codeEAddress(end);
-                console.log("got end point");
-                console.log(end);
+                //console.log("got end point");
+                //console.log(end);
                 range = document.getElementById('range').value;
                 init = document.getElementById('init').value;
                 round = document.getElementById('round').checked;
@@ -131,14 +159,14 @@
                 geocoder.geocode({'address': address}, function(results, status) {
                     if (status == google.maps.GeocoderStatus.OK) {
                         startloc = results[0].geometry.location.toString();
-                        console.log(startloc);
+                        //console.log(startloc);
                         if (typeof endloc == 'string' && typeof startloc == 'string') {
                             
 
                             secondHalf();
                         }
                         else {
-                            console.log("didn't have two after start");
+                            //console.log("didn't have two after start");
 
                         }
                         /*if (typeof endloc === 'string' && typeof startloc === 'string') {
@@ -154,7 +182,7 @@
                 geocoder.geocode({'address': address}, function(results, status) {
                     if (status == google.maps.GeocoderStatus.OK) {
                         endloc = results[0].geometry.location.toString();
-                        console.log(endloc);
+                        //console.log(endloc);
 
                         if (typeof endloc == 'string' && typeof startloc == 'string') {
                           
@@ -162,7 +190,7 @@
                         }
                         else {
                            
-                            console.log("didnt have two after end");
+                           // console.log("didnt have two after end");
                         }
                     }
                     else {
@@ -178,11 +206,17 @@
                 var waypts = [];
                 var stationinfo = [];
                 var xml;
-                console.log("calculate.php?from=" + startloc + "&to=" + endloc + "&range=" + range + "&init=" + init + "&round=" + round + "&fuel=" + fueltype);
-                downloadUrl("/afvrouting/calculate.php?from=" + startloc + "&to=" + endloc + "&range=" + range + "&init=" + init + "&round=" + round + "&fuel=" + fueltype, function(data) {
-                    var xml = data.responseXML;
-                    
-                    if (!xml) {
+                //console.log("calculate.php?from=" + startloc + "&to=" + endloc + "&range=" + range + "&init=" + init + "&round=" + round + "&fuel=" + fueltype);
+                
+                //downloadUrl("www.google.com");
+            
+                downloadUrl1("calculate.php", {"from": startloc, "to": endloc,"range": range,"init": init, "round":round, "fuel":fueltype}, function(response) {
+                    //console.log(response);
+                    //var xml = data.responseXML;
+                    //var xml = data.getElementsByTagName("data");
+                    //console.log("xml",xml);
+                    //console.log(xml[0].outerHTML);
+                    if (!response) {
                         alert("The program did not find any feasible paths.");
                         directionsDisplay.setMap(null);
                         var summaryPanel = document.getElementById('directions_panel');
@@ -190,18 +224,18 @@
                         disclaimer();
                         return;
                     }
-                    var data = xml.documentElement.getElementsByTagName("data");
+                    var data = response.getElementsByTagName("data");
                     if(data==null)
                         {alert("Oops. Something took too long, refresh and try again. Sorry");}
                     var origdist = data[0].getAttribute("dist");
-                    console.log(origdist);
+                    //console.log(origdist);
                     document.getElementById('submit').disabled = false;
                     document.getElementById('submit').value = 'Submit';
                      
                    
 
-                    var stations = xml.documentElement.getElementsByTagName("station");
-                    var data = xml.documentElement.getElementsByTagName("data");
+                    var stations = response.getElementsByTagName("station");
+                    //var data = xml.documentElement.getElementsByTagName("data");
                     if (stations.length == 0) {
                         alert("Path Not Refuelable. Sorry.");
                         directionsDisplay.setMap(null);
@@ -287,7 +321,7 @@
                 }
                 );
             }
-            function downloadUrl(url, callback) {
+       /*     function downloadUrl(url, callback) {
                 var request = window.ActiveXObject ?
                         new ActiveXObject('Microsoft.XMLHTTP') :
                         new XMLHttpRequest;
@@ -302,7 +336,7 @@
                 request.open('GET', url, true);
                 request.send(null);
             }
-
+*/
             function doNothing() {
             }
 
@@ -335,8 +369,6 @@
         </script>
     </head>
     <body onload="initialize()">
-
-        <div class="container-fluid"
         <div id ="navbar"style="float:left;">
             <input type= "checkbox" id="x" name="x" onclick="about();">
             <label for = "x">About</label>
@@ -348,40 +380,27 @@
             <label for="a">Credits</label>
             <input type="checkbox" id="b" name="b" onclick="window.open('http://www.afdc.energy.gov/locator/stations/results?utf8=%E2%9C%93&location=&filtered=true&fuel=CNG&owner=all&payment=all&ev_level1=true&ev_level2=true&ev_dc_fast=true&radius_miles=5','_blank');this.checked = false">
             <label for="b">Data</label>
-            <center><h1 class='text-success',class='bg-primary'>Alternative Fuel Vehicle Routing with Range and Refueling</center></h1>
-
         </div>
-    
-    </div>
-        
-        <!--
         <div id="map-canvas" style="float:right;width:70%;height:100%;"></div>
         <div id="control_panel" style="float:left;width:30%;text-align:left;padding-top:20px">
-        -->
-<div class="container-fluid">
-<div class="row">
-    <div id="map-canvas" class="col-sm-8"></div>
-          
-        <div id="control_panel" class="col-sm-4">
-            <div id="inputdiv" style="margin:20px;border-width:2px;">
-            <b class='text-primary'>Start location:</b><br/>
+            <center><h1>Alternative Fuel Vehicle Routing with Range and Refueling</center></h1>
+        <div id="inputdiv" style="margin:20px;border-width:2px;">
+            <b>Start location:</b><br/>
             <input type="text" id="start">
             <br>
-            <b class='text-primary'>End location:</b><br/>
+            <b>End location:</b><br/>
             <input type="text" id="end">
             <br/>
-            <b class='text-primary'>Vehicle range in miles (max 400):</b>
+            <b>Vehicle range in miles (max 400):</b>
             <br>
             <input type="text" id="range">
             <br/>
-            <b class='text-primary'>Initial fuel level (percent):</b>
+            <b>Initial fuel level (percent):</b>
             <br>
             <input type="text" id="init" value="100">
-            <br/><br/>
+            <br/>
 
-
-             <b class='text-primary'>Refueling Options</b>
-             <br/>
+             <b>Refueling Options</b><br/>
             <input type="checkbox"  name ="round" id="round"><label for = "round">Ensure Round Trip</label>
             <br/>
             <select name="fuel" id='fuel'>
@@ -394,26 +413,15 @@
             <input type="submit" id="submit" name="submit" onclick="calcRoute();">
             <br/><br/>
         </div>
-
-</div></div>
-
-   
         <div id="errordiv"></div>
-        
-
-       
-            <div class="row">
-        <div id="directions_panel" class="col-sm-12" style="margin:20px;background-color:#FFEE77;">
+        <div id="directions_panel" style="margin:20px;background-color:#FFEE77;">
             <font size="2">
             <input type='checkbox' name='disclaimer' id='disclaimer' onclick="disclaimer();"> <label for ='disclaimer'>Agree With Disclaimer</label>
             <div><i>This route planner is a prototype intended for research and demonstration purposes only. It is not actively maintained and the set of stations are not checked or updated. To run the prototype, you must first click the box to acknowledge that the data are not updated and you agree not to hold the researchers who developed this prototype, or their employers, liable for any damages caused by use of this prototype for any reasons whatsoever.</i><br/><b>If you don’t get a result within 60 seconds, please click Submit again, then try a different browser, then see Help tab.</b></div>
+
             </font>
         </div>
-
-    </div></div>
-    
-    
-
+    </div>
 
     <!-- LIGHTBOX CODE BEGIN -->
 
@@ -572,13 +580,8 @@
 
         </table>
 
+
+
     </div>
-
-
-    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 
 </body>
