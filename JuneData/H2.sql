@@ -30,3 +30,22 @@ CREATE TABLE leftjoin2 AS SELECT leftjoin1.id1, leftjoin1.id2, leftjoin1.lat lat
 \copy (SELECT * FROM leftjoin2) TO '/Users/user/Documents/GIS/Capstone/Junedata/leftjoin2.csv' CSV HEADER;
 
 \copy (SELECT * FROM h2network) TO '/Users/user/Documents/GIS/Capstone/Junedata/h2network.csv' CSV HEADER;
+
+CREATE TABLE hstations(gid serial NOT NULL, stationnam VARCHAR(100),address VARCHAR(100),city VARCHAR(100),state VARCHAR(50),zip VARCHAR(50), stationpho VARCHAR(100),access VARCHAR(100), access2 VARCHAR(100), lat double precision, lon double precision, id int);
+
+#create geometry
+ALTER TABLE hstations ADD COLUMN geom geometry(POINT,4326);
+UPDATE hstations SET geom = ST_SetSRID(ST_MakePoint(lon, lat), 4326);
+
+
+//afv cng tables 
+create table network(source int, target int, cost real);
+CREATE TABLE stations(gid serial NOT NULL, stationnam VARCHAR(100),address VARCHAR(100),city VARCHAR(100),state VARCHAR(50),zip VARCHAR(50), stationpho VARCHAR(100),access VARCHAR(100), access2 VARCHAR(100), lat double precision, lon double precision, id int);
+
+\copy network(source, target, cost) from '/Users/user/Documents/GIS/Capstone/Junedata/cng/cngnetworkmile.csv' DELIMITERS ',' CSV HEADER;
+#create geometry
+
+\copy stations(stationnam, address,city,state, zip, stationpho,access,access2,lat, lon,id) from '/Users/user/Documents/GIS/Capstone/Junedata/cng/cng_stations.csv' DELIMITERS ',' CSV HEADER;
+
+ALTER TABLE stations ADD COLUMN geom geometry(POINT,4326);
+UPDATE stations SET geom = ST_SetSRID(ST_MakePoint(lon, lat), 4326);

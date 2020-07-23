@@ -1,5 +1,5 @@
 <?php
-    $connection = pg_connect ("host=localhost dbname=foo user=postgres password=");
+    $connection = pg_connect ("host=localhost dbname=afv user=postgres password=");
     if($connection) {
        echo 'connected!!';
     } else {
