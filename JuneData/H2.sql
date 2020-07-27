@@ -1,4 +1,7 @@
 
+CREATE EXTENSION postgis;
+
+
 # create distinct id pairs of all H2 stations.
 
 CREATE TABLE h2stations(id serial NOT NULL, name VARCHAR(100),address VARCHAR(100),city VARCHAR(100),state VARCHAR(50),zip VARCHAR(50), lat double precision, lon double precision);
